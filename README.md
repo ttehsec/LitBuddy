@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 LitBuddy
 
 **LitBuddy** is a multi-modal literacy and math learning companion designed for children with dyslexia, dysgraphia, and speech-related challenges. Built by a cybersecurity professional for a homeschool educator, LitBuddy integrates text-to-speech, speech-to-text, phonics games, and math challenges into one accessible, offline-friendly platform.
@@ -63,7 +63,5 @@ LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text t
 2. **Clone the Repository**
    ```bash
    git clone https://github.com/ttehsec/LitBuddy.git
-=======
-# LitBuddy
-**LitBuddy** is a multi-modal literacy and math learning companion designed for children with dyslexia, dysgraphia, and speech-related challenges. Built by a cybersecurity professional for a homeschool educator, LitBuddy integrates text-to-speech, speech-to-text, phonics games, and math challenges into one accessible, offline-friendly platform.
->>>>>>> 50987d422704ddeb0a82e9b596c28d29fcc74583
+
+
