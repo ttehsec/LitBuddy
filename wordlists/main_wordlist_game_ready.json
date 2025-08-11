@@ -1,0 +1,7780 @@
+[
+  {
+    "word": "about",
+    "choices": [
+      "about",
+      "abput",
+      "aboul"
+    ],
+    "syllables": [
+      "about"
+    ]
+  },
+  {
+    "word": "abrasion",
+    "choices": [
+      "abrasion",
+      "absasion",
+      "abrahion"
+    ],
+    "syllables": [
+      "ab",
+      "ra",
+      "sion"
+    ]
+  },
+  {
+    "word": "acted",
+    "choices": [
+      "acted",
+      "ached",
+      "aqted"
+    ],
+    "syllables": [
+      "ac",
+      "ted"
+    ]
+  },
+  {
+    "word": "action",
+    "choices": [
+      "action",
+      "acjion",
+      "actioh"
+    ],
+    "syllables": [
+      "ac",
+      "tion"
+    ]
+  },
+  {
+    "word": "addition",
+    "choices": [
+      "addition",
+      "abdition",
+      "aidition"
+    ],
+    "syllables": [
+      "ad",
+      "di",
+      "tion"
+    ]
+  },
+  {
+    "word": "aim",
+    "choices": [
+      "aim",
+      "mim",
+      "ajm"
+    ],
+    "syllables": [
+      "aim"
+    ]
+  },
+  {
+    "word": "allow",
+    "choices": [
+      "allow",
+      "aplow",
+      "allqw"
+    ],
+    "syllables": [
+      "al",
+      "low"
+    ]
+  },
+  {
+    "word": "alloy",
+    "choices": [
+      "alloy",
+      "allhy",
+      "rlloy"
+    ],
+    "syllables": [
+      "al",
+      "loy"
+    ]
+  },
+  {
+    "word": "aloe",
+    "choices": [
+      "aloe",
+      "alre",
+      "alce"
+    ],
+    "syllables": [
+      "aloe"
+    ]
+  },
+  {
+    "word": "alphabet",
+    "choices": [
+      "alphabet",
+      "alphaset",
+      "aaphabet"
+    ],
+    "syllables": [
+      "al",
+      "pha",
+      "bet"
+    ]
+  },
+  {
+    "word": "ambition",
+    "choices": [
+      "ambition",
+      "ambitnon",
+      "ambidion"
+    ],
+    "syllables": [
+      "am",
+      "bi",
+      "tion"
+    ]
+  },
+  {
+    "word": "annoy",
+    "choices": [
+      "annoy",
+      "cnnoy",
+      "avnoy"
+    ],
+    "syllables": [
+      "an",
+      "noy"
+    ]
+  },
+  {
+    "word": "arm",
+    "choices": [
+      "arm",
+      "arp",
+      "aqm"
+    ],
+    "syllables": [
+      "arm"
+    ]
+  },
+  {
+    "word": "asking",
+    "choices": [
+      "asking",
+      "lsking",
+      "osking"
+    ],
+    "syllables": [
+      "ask",
+      "ing"
+    ]
+  },
+  {
+    "word": "august",
+    "choices": [
+      "august",
+      "augusp",
+      "auguse"
+    ],
+    "syllables": [
+      "au",
+      "gust"
+    ]
+  },
+  {
+    "word": "aunt",
+    "choices": [
+      "aunt",
+      "auzt",
+      "aupt"
+    ],
+    "syllables": [
+      "aunt"
+    ]
+  },
+  {
+    "word": "avoid",
+    "choices": [
+      "avoid",
+      "dvoid",
+      "avhid"
+    ],
+    "syllables": [
+      "avoid"
+    ]
+  },
+  {
+    "word": "badge",
+    "choices": [
+      "badge",
+      "ladge",
+      "padge"
+    ],
+    "syllables": [
+      "badge"
+    ]
+  },
+  {
+    "word": "bang",
+    "choices": [
+      "bang",
+      "bzng",
+      "bgng"
+    ],
+    "syllables": [
+      "bang"
+    ]
+  },
+  {
+    "word": "bath",
+    "choices": [
+      "bath",
+      "bach",
+      "bjth"
+    ],
+    "syllables": [
+      "bath"
+    ]
+  },
+  {
+    "word": "belief",
+    "choices": [
+      "belief",
+      "beeief",
+      "belien"
+    ],
+    "syllables": [
+      "be",
+      "lief"
+    ]
+  },
+  {
+    "word": "bird",
+    "choices": [
+      "bird",
+      "pird",
+      "bgrd"
+    ],
+    "syllables": [
+      "bird"
+    ]
+  },
+  {
+    "word": "birth",
+    "choices": [
+      "birth",
+      "bivth",
+      "bizth"
+    ],
+    "syllables": [
+      "birth"
+    ]
+  },
+  {
+    "word": "blesses",
+    "choices": [
+      "blesses",
+      "bvesses",
+      "blessev"
+    ],
+    "syllables": [
+      "blesses"
+    ]
+  },
+  {
+    "word": "blew",
+    "choices": [
+      "blew",
+      "bler",
+      "bwew"
+    ],
+    "syllables": [
+      "blew"
+    ]
+  },
+  {
+    "word": "blotch",
+    "choices": [
+      "blotch",
+      "blotck",
+      "blodch"
+    ],
+    "syllables": [
+      "blotch"
+    ]
+  },
+  {
+    "word": "blow",
+    "choices": [
+      "blow",
+      "bkow",
+      "blgw"
+    ],
+    "syllables": [
+      "blow"
+    ]
+  },
+  {
+    "word": "blur",
+    "choices": [
+      "blur",
+      "bluy",
+      "bfur"
+    ],
+    "syllables": [
+      "blur"
+    ]
+  },
+  {
+    "word": "blurb",
+    "choices": [
+      "blurb",
+      "buurb",
+      "nlurb"
+    ],
+    "syllables": [
+      "blurb"
+    ]
+  },
+  {
+    "word": "boat",
+    "choices": [
+      "boat",
+      "doat",
+      "hoat"
+    ],
+    "syllables": [
+      "boat"
+    ]
+  },
+  {
+    "word": "boil",
+    "choices": [
+      "boil",
+      "bogl",
+      "boul"
+    ],
+    "syllables": [
+      "boil"
+    ]
+  },
+  {
+    "word": "boost",
+    "choices": [
+      "boost",
+      "booqt",
+      "byost"
+    ],
+    "syllables": [
+      "boost"
+    ]
+  },
+  {
+    "word": "boot",
+    "choices": [
+      "boot",
+      "bfot",
+      "soot"
+    ],
+    "syllables": [
+      "boot"
+    ]
+  },
+  {
+    "word": "born",
+    "choices": [
+      "born",
+      "oorn",
+      "qorn"
+    ],
+    "syllables": [
+      "born"
+    ]
+  },
+  {
+    "word": "bough",
+    "choices": [
+      "bough",
+      "bouph",
+      "mough"
+    ],
+    "syllables": [
+      "bough"
+    ]
+  },
+  {
+    "word": "bought",
+    "choices": [
+      "bought",
+      "boucht",
+      "hought"
+    ],
+    "syllables": [
+      "bought"
+    ]
+  },
+  {
+    "word": "bounce",
+    "choices": [
+      "bounce",
+      "bouqce",
+      "bounze"
+    ],
+    "syllables": [
+      "bounce"
+    ]
+  },
+  {
+    "word": "bow",
+    "choices": [
+      "bow",
+      "boi",
+      "wow"
+    ],
+    "syllables": [
+      "bow"
+    ]
+  },
+  {
+    "word": "box",
+    "choices": [
+      "box",
+      "bwx",
+      "nox"
+    ],
+    "syllables": [
+      "box"
+    ]
+  },
+  {
+    "word": "boy",
+    "choices": [
+      "boy",
+      "bon",
+      "aoy"
+    ],
+    "syllables": [
+      "boy"
+    ]
+  },
+  {
+    "word": "braid",
+    "choices": [
+      "braid",
+      "braxd",
+      "brair"
+    ],
+    "syllables": [
+      "braid"
+    ]
+  },
+  {
+    "word": "break",
+    "choices": [
+      "break",
+      "bxeak",
+      "brqak"
+    ],
+    "syllables": [
+      "break"
+    ]
+  },
+  {
+    "word": "brief",
+    "choices": [
+      "brief",
+      "btief",
+      "xrief"
+    ],
+    "syllables": [
+      "brief"
+    ]
+  },
+  {
+    "word": "bright",
+    "choices": [
+      "bright",
+      "breght",
+      "brighw"
+    ],
+    "syllables": [
+      "bright"
+    ]
+  },
+  {
+    "word": "bring",
+    "choices": [
+      "bring",
+      "brina",
+      "brinp"
+    ],
+    "syllables": [
+      "bring"
+    ]
+  },
+  {
+    "word": "broom",
+    "choices": [
+      "broom",
+      "jroom",
+      "brook"
+    ],
+    "syllables": [
+      "broom"
+    ]
+  },
+  {
+    "word": "brought",
+    "choices": [
+      "brought",
+      "brougxt",
+      "brougit"
+    ],
+    "syllables": [
+      "brought"
+    ]
+  },
+  {
+    "word": "brow",
+    "choices": [
+      "brow",
+      "rrow",
+      "bpow"
+    ],
+    "syllables": [
+      "brow"
+    ]
+  },
+  {
+    "word": "bruise",
+    "choices": [
+      "bruise",
+      "bruiee",
+      "bwuise"
+    ],
+    "syllables": [
+      "bruise"
+    ]
+  },
+  {
+    "word": "brush",
+    "choices": [
+      "brush",
+      "brunh",
+      "boush"
+    ],
+    "syllables": [
+      "brush"
+    ]
+  },
+  {
+    "word": "build",
+    "choices": [
+      "build",
+      "builj",
+      "buiod"
+    ],
+    "syllables": [
+      "build"
+    ]
+  },
+  {
+    "word": "builder",
+    "choices": [
+      "builder",
+      "buiqder",
+      "bmilder"
+    ],
+    "syllables": [
+      "build",
+      "er"
+    ]
+  },
+  {
+    "word": "building",
+    "choices": [
+      "building",
+      "buildeng",
+      "puilding"
+    ],
+    "syllables": [
+      "build",
+      "ing"
+    ]
+  },
+  {
+    "word": "built",
+    "choices": [
+      "built",
+      "buxlt",
+      "buint"
+    ],
+    "syllables": [
+      "built"
+    ]
+  },
+  {
+    "word": "burn",
+    "choices": [
+      "burn",
+      "bxrn",
+      "burv"
+    ],
+    "syllables": [
+      "burn"
+    ]
+  },
+  {
+    "word": "buses",
+    "choices": [
+      "buses",
+      "vuses",
+      "duses"
+    ],
+    "syllables": [
+      "buses"
+    ]
+  },
+  {
+    "word": "buy",
+    "choices": [
+      "buy",
+      "boy",
+      "bay"
+    ],
+    "syllables": [
+      "buy"
+    ]
+  },
+  {
+    "word": "buzz",
+    "choices": [
+      "buzz",
+      "buaz",
+      "buzj"
+    ],
+    "syllables": [
+      "buzz"
+    ]
+  },
+  {
+    "word": "camped",
+    "choices": [
+      "camped",
+      "camqed",
+      "namped"
+    ],
+    "syllables": [
+      "camped"
+    ]
+  },
+  {
+    "word": "canoe",
+    "choices": [
+      "canoe",
+      "xanoe",
+      "canoc"
+    ],
+    "syllables": [
+      "ca",
+      "noe"
+    ]
+  },
+  {
+    "word": "cash",
+    "choices": [
+      "cash",
+      "casp",
+      "cabh"
+    ],
+    "syllables": [
+      "cash"
+    ]
+  },
+  {
+    "word": "catch",
+    "choices": [
+      "catch",
+      "datch",
+      "cytch"
+    ],
+    "syllables": [
+      "catch"
+    ]
+  },
+  {
+    "word": "caught",
+    "choices": [
+      "caught",
+      "caqght",
+      "cadght"
+    ],
+    "syllables": [
+      "caught"
+    ]
+  },
+  {
+    "word": "caution",
+    "choices": [
+      "caution",
+      "yaution",
+      "cmution"
+    ],
+    "syllables": [
+      "cau",
+      "tion"
+    ]
+  },
+  {
+    "word": "ceiling",
+    "choices": [
+      "ceiling",
+      "cqiling",
+      "cesling"
+    ],
+    "syllables": [
+      "ceil",
+      "ing"
+    ]
+  },
+  {
+    "word": "chat",
+    "choices": [
+      "chat",
+      "chan",
+      "ihat"
+    ],
+    "syllables": [
+      "chat"
+    ]
+  },
+  {
+    "word": "chef",
+    "choices": [
+      "chef",
+      "cfef",
+      "cjef"
+    ],
+    "syllables": [
+      "chef"
+    ]
+  },
+  {
+    "word": "chemist",
+    "choices": [
+      "chemist",
+      "chemibt",
+      "chemiqt"
+    ],
+    "syllables": [
+      "chem",
+      "ist"
+    ]
+  },
+  {
+    "word": "chief",
+    "choices": [
+      "chief",
+      "chkef",
+      "chtef"
+    ],
+    "syllables": [
+      "chief"
+    ]
+  },
+  {
+    "word": "chloe",
+    "choices": [
+      "chloe",
+      "chlob",
+      "chloa"
+    ],
+    "syllables": [
+      "chloe"
+    ]
+  },
+  {
+    "word": "choice",
+    "choices": [
+      "choice",
+      "chotce",
+      "vhoice"
+    ],
+    "syllables": [
+      "choice"
+    ]
+  },
+  {
+    "word": "church",
+    "choices": [
+      "church",
+      "churdh",
+      "churdh"
+    ],
+    "syllables": [
+      "church"
+    ]
+  },
+  {
+    "word": "circle",
+    "choices": [
+      "circle",
+      "cixcle",
+      "ckrcle"
+    ],
+    "syllables": [
+      "circle"
+    ]
+  },
+  {
+    "word": "clay",
+    "choices": [
+      "clay",
+      "clby",
+      "clfy"
+    ],
+    "syllables": [
+      "clay"
+    ]
+  },
+  {
+    "word": "clear",
+    "choices": [
+      "clear",
+      "clesr",
+      "clesr"
+    ],
+    "syllables": [
+      "clear"
+    ]
+  },
+  {
+    "word": "clerk",
+    "choices": [
+      "clerk",
+      "clern",
+      "clerq"
+    ],
+    "syllables": [
+      "clerk"
+    ]
+  },
+  {
+    "word": "cloak",
+    "choices": [
+      "cloak",
+      "clofk",
+      "clpak"
+    ],
+    "syllables": [
+      "cloak"
+    ]
+  },
+  {
+    "word": "cloud",
+    "choices": [
+      "cloud",
+      "clowd",
+      "tloud"
+    ],
+    "syllables": [
+      "cloud"
+    ]
+  },
+  {
+    "word": "clung",
+    "choices": [
+      "clung",
+      "clune",
+      "elung"
+    ],
+    "syllables": [
+      "clung"
+    ]
+  },
+  {
+    "word": "coast",
+    "choices": [
+      "coast",
+      "coabt",
+      "coasb"
+    ],
+    "syllables": [
+      "coast"
+    ]
+  },
+  {
+    "word": "coat",
+    "choices": [
+      "coat",
+      "coau",
+      "cmat"
+    ],
+    "syllables": [
+      "coat"
+    ]
+  },
+  {
+    "word": "coin",
+    "choices": [
+      "coin",
+      "coxn",
+      "qoin"
+    ],
+    "syllables": [
+      "coin"
+    ]
+  },
+  {
+    "word": "collision",
+    "choices": [
+      "collision",
+      "coolision",
+      "collisioo"
+    ],
+    "syllables": [
+      "col",
+      "li",
+      "sion"
+    ]
+  },
+  {
+    "word": "condition",
+    "choices": [
+      "condition",
+      "conditpon",
+      "conditiln"
+    ],
+    "syllables": [
+      "con",
+      "di",
+      "tion"
+    ]
+  },
+  {
+    "word": "confusion",
+    "choices": [
+      "confusion",
+      "cpnfusion",
+      "cmnfusion"
+    ],
+    "syllables": [
+      "con",
+      "fu",
+      "sion"
+    ]
+  },
+  {
+    "word": "cool",
+    "choices": [
+      "cool",
+      "cooh",
+      "cosl"
+    ],
+    "syllables": [
+      "cool"
+    ]
+  },
+  {
+    "word": "corn",
+    "choices": [
+      "corn",
+      "coyn",
+      "zorn"
+    ],
+    "syllables": [
+      "corn"
+    ]
+  },
+  {
+    "word": "couch",
+    "choices": [
+      "couch",
+      "chuch",
+      "touch"
+    ],
+    "syllables": [
+      "couch"
+    ]
+  },
+  {
+    "word": "could",
+    "choices": [
+      "could",
+      "cwuld",
+      "couud"
+    ],
+    "syllables": [
+      "could"
+    ]
+  },
+  {
+    "word": "coupon",
+    "choices": [
+      "coupon",
+      "couhon",
+      "coucon"
+    ],
+    "syllables": [
+      "coupon"
+    ]
+  },
+  {
+    "word": "court",
+    "choices": [
+      "court",
+      "cwurt",
+      "hourt"
+    ],
+    "syllables": [
+      "court"
+    ]
+  },
+  {
+    "word": "cow",
+    "choices": [
+      "cow",
+      "cfw",
+      "cot"
+    ],
+    "syllables": [
+      "cow"
+    ]
+  },
+  {
+    "word": "cowboy",
+    "choices": [
+      "cowboy",
+      "corboy",
+      "cywboy"
+    ],
+    "syllables": [
+      "cow",
+      "boy"
+    ]
+  },
+  {
+    "word": "crayon",
+    "choices": [
+      "crayon",
+      "crayzn",
+      "crayen"
+    ],
+    "syllables": [
+      "cray",
+      "on"
+    ]
+  },
+  {
+    "word": "crowd",
+    "choices": [
+      "crowd",
+      "crogd",
+      "crowt"
+    ],
+    "syllables": [
+      "crowd"
+    ]
+  },
+  {
+    "word": "cruise",
+    "choices": [
+      "cruise",
+      "cruisq",
+      "cxuise"
+    ],
+    "syllables": [
+      "cruise"
+    ]
+  },
+  {
+    "word": "crunch",
+    "choices": [
+      "crunch",
+      "cruich",
+      "crunxh"
+    ],
+    "syllables": [
+      "crunch"
+    ]
+  },
+  {
+    "word": "crutch",
+    "choices": [
+      "crutch",
+      "crutmh",
+      "cdutch"
+    ],
+    "syllables": [
+      "crutch"
+    ]
+  },
+  {
+    "word": "curl",
+    "choices": [
+      "curl",
+      "curi",
+      "cyrl"
+    ],
+    "syllables": [
+      "curl"
+    ]
+  },
+  {
+    "word": "curve",
+    "choices": [
+      "curve",
+      "corve",
+      "cnrve"
+    ],
+    "syllables": [
+      "curve"
+    ]
+  },
+  {
+    "word": "decision",
+    "choices": [
+      "decision",
+      "decisijn",
+      "dhcision"
+    ],
+    "syllables": [
+      "de",
+      "cision"
+    ]
+  },
+  {
+    "word": "decoy",
+    "choices": [
+      "decoy",
+      "decol",
+      "deciy"
+    ],
+    "syllables": [
+      "de",
+      "coy"
+    ]
+  },
+  {
+    "word": "deep",
+    "choices": [
+      "deep",
+      "deef",
+      "djep"
+    ],
+    "syllables": [
+      "deep"
+    ]
+  },
+  {
+    "word": "delight",
+    "choices": [
+      "delight",
+      "delikht",
+      "selight"
+    ],
+    "syllables": [
+      "de",
+      "light"
+    ]
+  },
+  {
+    "word": "design",
+    "choices": [
+      "design",
+      "dbsign",
+      "dejign"
+    ],
+    "syllables": [
+      "design"
+    ]
+  },
+  {
+    "word": "dream",
+    "choices": [
+      "dream",
+      "drqam",
+      "dreqm"
+    ],
+    "syllables": [
+      "dream"
+    ]
+  },
+  {
+    "word": "dumpster",
+    "choices": [
+      "dumpster",
+      "dumzster",
+      "dumpstvr"
+    ],
+    "syllables": [
+      "dump",
+      "ster"
+    ]
+  },
+  {
+    "word": "earn",
+    "choices": [
+      "earn",
+      "xarn",
+      "eavn"
+    ],
+    "syllables": [
+      "earn"
+    ]
+  },
+  {
+    "word": "echoes",
+    "choices": [
+      "echoes",
+      "echoex",
+      "cchoes"
+    ],
+    "syllables": [
+      "echoes"
+    ]
+  },
+  {
+    "word": "elbow",
+    "choices": [
+      "elbow",
+      "wlbow",
+      "elbog"
+    ],
+    "syllables": [
+      "el",
+      "bow"
+    ]
+  },
+  {
+    "word": "elephant",
+    "choices": [
+      "elephant",
+      "elephavt",
+      "elephanq"
+    ],
+    "syllables": [
+      "ele",
+      "phant"
+    ]
+  },
+  {
+    "word": "elves",
+    "choices": [
+      "elves",
+      "elvms",
+      "elmes"
+    ],
+    "syllables": [
+      "elves"
+    ]
+  },
+  {
+    "word": "employ",
+    "choices": [
+      "employ",
+      "empooy",
+      "emdloy"
+    ],
+    "syllables": [
+      "em",
+      "ploy"
+    ]
+  },
+  {
+    "word": "ending",
+    "choices": [
+      "ending",
+      "endini",
+      "enqing"
+    ],
+    "syllables": [
+      "end",
+      "ing"
+    ]
+  },
+  {
+    "word": "enjoy",
+    "choices": [
+      "enjoy",
+      "enjzy",
+      "enjop"
+    ],
+    "syllables": [
+      "en",
+      "joy"
+    ]
+  },
+  {
+    "word": "enough",
+    "choices": [
+      "enough",
+      "enougu",
+      "snough"
+    ],
+    "syllables": [
+      "enough"
+    ]
+  },
+  {
+    "word": "exact",
+    "choices": [
+      "exact",
+      "exaat",
+      "gxact"
+    ],
+    "syllables": [
+      "ex",
+      "act"
+    ]
+  },
+  {
+    "word": "exit",
+    "choices": [
+      "exit",
+      "exig",
+      "exgt"
+    ],
+    "syllables": [
+      "exit"
+    ]
+  },
+  {
+    "word": "expand",
+    "choices": [
+      "expand",
+      "expaod",
+      "expbnd"
+    ],
+    "syllables": [
+      "ex",
+      "pand"
+    ]
+  },
+  {
+    "word": "extra",
+    "choices": [
+      "extra",
+      "rxtra",
+      "extrn"
+    ],
+    "syllables": [
+      "ex",
+      "tra"
+    ]
+  },
+  {
+    "word": "feint",
+    "choices": [
+      "feint",
+      "fennt",
+      "feqnt"
+    ],
+    "syllables": [
+      "feint"
+    ]
+  },
+  {
+    "word": "feisty",
+    "choices": [
+      "feisty",
+      "feiwty",
+      "feistz"
+    ],
+    "syllables": [
+      "feisty"
+    ]
+  },
+  {
+    "word": "fern",
+    "choices": [
+      "fern",
+      "rern",
+      "fbrn"
+    ],
+    "syllables": [
+      "fern"
+    ]
+  },
+  {
+    "word": "fetch",
+    "choices": [
+      "fetch",
+      "letch",
+      "fetcs"
+    ],
+    "syllables": [
+      "fetch"
+    ]
+  },
+  {
+    "word": "few",
+    "choices": [
+      "few",
+      "fpw",
+      "iew"
+    ],
+    "syllables": [
+      "few"
+    ]
+  },
+  {
+    "word": "field",
+    "choices": [
+      "field",
+      "fielo",
+      "fielq"
+    ],
+    "syllables": [
+      "field"
+    ]
+  },
+  {
+    "word": "fifth",
+    "choices": [
+      "fifth",
+      "fifgh",
+      "ficth"
+    ],
+    "syllables": [
+      "fifth"
+    ]
+  },
+  {
+    "word": "filmed",
+    "choices": [
+      "filmed",
+      "filmem",
+      "fivmed"
+    ],
+    "syllables": [
+      "filmed"
+    ]
+  },
+  {
+    "word": "finish",
+    "choices": [
+      "finish",
+      "finich",
+      "kinish"
+    ],
+    "syllables": [
+      "fin",
+      "ish"
+    ]
+  },
+  {
+    "word": "firm",
+    "choices": [
+      "firm",
+      "firw",
+      "furm"
+    ],
+    "syllables": [
+      "firm"
+    ]
+  },
+  {
+    "word": "first",
+    "choices": [
+      "first",
+      "firsz",
+      "firbt"
+    ],
+    "syllables": [
+      "first"
+    ]
+  },
+  {
+    "word": "fix",
+    "choices": [
+      "fix",
+      "rix",
+      "fih"
+    ],
+    "syllables": [
+      "fix"
+    ]
+  },
+  {
+    "word": "fizz",
+    "choices": [
+      "fizz",
+      "fvzz",
+      "fizw"
+    ],
+    "syllables": [
+      "fizz"
+    ]
+  },
+  {
+    "word": "flexes",
+    "choices": [
+      "flexes",
+      "fwexes",
+      "fleees"
+    ],
+    "syllables": [
+      "flexes"
+    ]
+  },
+  {
+    "word": "flight",
+    "choices": [
+      "flight",
+      "fligat",
+      "flikht"
+    ],
+    "syllables": [
+      "flight"
+    ]
+  },
+  {
+    "word": "fling",
+    "choices": [
+      "fling",
+      "ffing",
+      "fging"
+    ],
+    "syllables": [
+      "fling"
+    ]
+  },
+  {
+    "word": "float",
+    "choices": [
+      "float",
+      "flmat",
+      "floaz"
+    ],
+    "syllables": [
+      "float"
+    ]
+  },
+  {
+    "word": "floor",
+    "choices": [
+      "floor",
+      "flobr",
+      "ftoor"
+    ],
+    "syllables": [
+      "floor"
+    ]
+  },
+  {
+    "word": "flour",
+    "choices": [
+      "flour",
+      "flouu",
+      "flotr"
+    ],
+    "syllables": [
+      "flour"
+    ]
+  },
+  {
+    "word": "foam",
+    "choices": [
+      "foam",
+      "foaw",
+      "qoam"
+    ],
+    "syllables": [
+      "foam"
+    ]
+  },
+  {
+    "word": "foil",
+    "choices": [
+      "foil",
+      "feil",
+      "foif"
+    ],
+    "syllables": [
+      "foil"
+    ]
+  },
+  {
+    "word": "food",
+    "choices": [
+      "food",
+      "fofd",
+      "fwod"
+    ],
+    "syllables": [
+      "food"
+    ]
+  },
+  {
+    "word": "for",
+    "choices": [
+      "for",
+      "fmr",
+      "vor"
+    ],
+    "syllables": [
+      "for"
+    ]
+  },
+  {
+    "word": "form",
+    "choices": [
+      "form",
+      "yorm",
+      "gorm"
+    ],
+    "syllables": [
+      "form"
+    ]
+  },
+  {
+    "word": "fort",
+    "choices": [
+      "fort",
+      "fmrt",
+      "fore"
+    ],
+    "syllables": [
+      "fort"
+    ]
+  },
+  {
+    "word": "found",
+    "choices": [
+      "found",
+      "yound",
+      "fouxd"
+    ],
+    "syllables": [
+      "found"
+    ]
+  },
+  {
+    "word": "fox",
+    "choices": [
+      "fox",
+      "fkx",
+      "fjx"
+    ],
+    "syllables": [
+      "fox"
+    ]
+  },
+  {
+    "word": "fraction",
+    "choices": [
+      "fraction",
+      "fractien",
+      "fraclion"
+    ],
+    "syllables": [
+      "frac",
+      "tion"
+    ]
+  },
+  {
+    "word": "fridge",
+    "choices": [
+      "fridge",
+      "fridgt",
+      "fridme"
+    ],
+    "syllables": [
+      "fridge"
+    ]
+  },
+  {
+    "word": "fruit",
+    "choices": [
+      "fruit",
+      "frkit",
+      "fruct"
+    ],
+    "syllables": [
+      "fruit"
+    ]
+  },
+  {
+    "word": "fur",
+    "choices": [
+      "fur",
+      "fuz",
+      "fum"
+    ],
+    "syllables": [
+      "fur"
+    ]
+  },
+  {
+    "word": "furnish",
+    "choices": [
+      "furnish",
+      "furuish",
+      "furnisa"
+    ],
+    "syllables": [
+      "fur",
+      "nish"
+    ]
+  },
+  {
+    "word": "garlic",
+    "choices": [
+      "garlic",
+      "gablic",
+      "varlic"
+    ],
+    "syllables": [
+      "gar",
+      "lic"
+    ]
+  },
+  {
+    "word": "gifted",
+    "choices": [
+      "gifted",
+      "gnfted",
+      "giftod"
+    ],
+    "syllables": [
+      "gif",
+      "ted"
+    ]
+  },
+  {
+    "word": "girl",
+    "choices": [
+      "girl",
+      "gisl",
+      "iirl"
+    ],
+    "syllables": [
+      "girl"
+    ]
+  },
+  {
+    "word": "gnat",
+    "choices": [
+      "gnat",
+      "gnaz",
+      "gnzt"
+    ],
+    "syllables": [
+      "gnat"
+    ]
+  },
+  {
+    "word": "goal",
+    "choices": [
+      "goal",
+      "hoal",
+      "coal"
+    ],
+    "syllables": [
+      "goal"
+    ]
+  },
+  {
+    "word": "goat",
+    "choices": [
+      "goat",
+      "joat",
+      "goan"
+    ],
+    "syllables": [
+      "goat"
+    ]
+  },
+  {
+    "word": "goes",
+    "choices": [
+      "goes",
+      "coes",
+      "goea"
+    ],
+    "syllables": [
+      "goes"
+    ]
+  },
+  {
+    "word": "goose",
+    "choices": [
+      "goose",
+      "goosk",
+      "godse"
+    ],
+    "syllables": [
+      "goose"
+    ]
+  },
+  {
+    "word": "graph",
+    "choices": [
+      "graph",
+      "grwph",
+      "gruph"
+    ],
+    "syllables": [
+      "graph"
+    ]
+  },
+  {
+    "word": "grey",
+    "choices": [
+      "grey",
+      "brey",
+      "grhy"
+    ],
+    "syllables": [
+      "grey"
+    ]
+  },
+  {
+    "word": "groan",
+    "choices": [
+      "groan",
+      "gjoan",
+      "guoan"
+    ],
+    "syllables": [
+      "groan"
+    ]
+  },
+  {
+    "word": "grow",
+    "choices": [
+      "grow",
+      "zrow",
+      "brow"
+    ],
+    "syllables": [
+      "grow"
+    ]
+  },
+  {
+    "word": "grown",
+    "choices": [
+      "grown",
+      "grodn",
+      "groln"
+    ],
+    "syllables": [
+      "grown"
+    ]
+  },
+  {
+    "word": "guide",
+    "choices": [
+      "guide",
+      "gtide",
+      "zuide"
+    ],
+    "syllables": [
+      "guide"
+    ]
+  },
+  {
+    "word": "guild",
+    "choices": [
+      "guild",
+      "gvild",
+      "gqild"
+    ],
+    "syllables": [
+      "guild"
+    ]
+  },
+  {
+    "word": "guitar",
+    "choices": [
+      "guitar",
+      "gmitar",
+      "guimar"
+    ],
+    "syllables": [
+      "gui",
+      "tar"
+    ]
+  },
+  {
+    "word": "hang",
+    "choices": [
+      "hang",
+      "haug",
+      "hong"
+    ],
+    "syllables": [
+      "hang"
+    ]
+  },
+  {
+    "word": "harvest",
+    "choices": [
+      "harvest",
+      "harvesh",
+      "harrest"
+    ],
+    "syllables": [
+      "har",
+      "vest"
+    ]
+  },
+  {
+    "word": "haul",
+    "choices": [
+      "haul",
+      "haun",
+      "hafl"
+    ],
+    "syllables": [
+      "haul"
+    ]
+  },
+  {
+    "word": "headset",
+    "choices": [
+      "headset",
+      "headsht",
+      "headyet"
+    ],
+    "syllables": [
+      "head",
+      "set"
+    ]
+  },
+  {
+    "word": "heard",
+    "choices": [
+      "heard",
+      "heaud",
+      "heajd"
+    ],
+    "syllables": [
+      "heard"
+    ]
+  },
+  {
+    "word": "height",
+    "choices": [
+      "height",
+      "heikht",
+      "yeight"
+    ],
+    "syllables": [
+      "height"
+    ]
+  },
+  {
+    "word": "heroes",
+    "choices": [
+      "heroes",
+      "heboes",
+      "deroes"
+    ],
+    "syllables": [
+      "her",
+      "oes"
+    ]
+  },
+  {
+    "word": "hiccough",
+    "choices": [
+      "hiccough",
+      "hicfough",
+      "hiccougp"
+    ],
+    "syllables": [
+      "hic",
+      "cough"
+    ]
+  },
+  {
+    "word": "high",
+    "choices": [
+      "high",
+      "jigh",
+      "hxgh"
+    ],
+    "syllables": [
+      "high"
+    ]
+  },
+  {
+    "word": "hoe",
+    "choices": [
+      "hoe",
+      "zoe",
+      "zoe"
+    ],
+    "syllables": [
+      "hoe"
+    ]
+  },
+  {
+    "word": "holiday",
+    "choices": [
+      "holiday",
+      "holidjy",
+      "holiiay"
+    ],
+    "syllables": [
+      "hol",
+      "i",
+      "day"
+    ]
+  },
+  {
+    "word": "horn",
+    "choices": [
+      "horn",
+      "hoon",
+      "hirn"
+    ],
+    "syllables": [
+      "horn"
+    ]
+  },
+  {
+    "word": "house",
+    "choices": [
+      "house",
+      "houwe",
+      "hbuse"
+    ],
+    "syllables": [
+      "house"
+    ]
+  },
+  {
+    "word": "how",
+    "choices": [
+      "how",
+      "hoy",
+      "hvw"
+    ],
+    "syllables": [
+      "how"
+    ]
+  },
+  {
+    "word": "howl",
+    "choices": [
+      "howl",
+      "hobl",
+      "qowl"
+    ],
+    "syllables": [
+      "howl"
+    ]
+  },
+  {
+    "word": "hutch",
+    "choices": [
+      "hutch",
+      "huzch",
+      "autch"
+    ],
+    "syllables": [
+      "hutch"
+    ]
+  },
+  {
+    "word": "inch",
+    "choices": [
+      "inch",
+      "inah",
+      "insh"
+    ],
+    "syllables": [
+      "inch"
+    ]
+  },
+  {
+    "word": "inform",
+    "choices": [
+      "inform",
+      "iaform",
+      "infovm"
+    ],
+    "syllables": [
+      "in",
+      "form"
+    ]
+  },
+  {
+    "word": "insight",
+    "choices": [
+      "insight",
+      "innight",
+      "nnsight"
+    ],
+    "syllables": [
+      "in",
+      "sight"
+    ]
+  },
+  {
+    "word": "invention",
+    "choices": [
+      "invention",
+      "inventiln",
+      "ynvention"
+    ],
+    "syllables": [
+      "in",
+      "ven",
+      "tion"
+    ]
+  },
+  {
+    "word": "itch",
+    "choices": [
+      "itch",
+      "jtch",
+      "ihch"
+    ],
+    "syllables": [
+      "itch"
+    ]
+  },
+  {
+    "word": "jacket",
+    "choices": [
+      "jacket",
+      "jaoket",
+      "jackxt"
+    ],
+    "syllables": [
+      "jack",
+      "et"
+    ]
+  },
+  {
+    "word": "jam",
+    "choices": [
+      "jam",
+      "jah",
+      "jkm"
+    ],
+    "syllables": [
+      "jam"
+    ]
+  },
+  {
+    "word": "jeans",
+    "choices": [
+      "jeans",
+      "ieans",
+      "jeaps"
+    ],
+    "syllables": [
+      "jeans"
+    ]
+  },
+  {
+    "word": "jelly",
+    "choices": [
+      "jelly",
+      "jolly",
+      "jenly"
+    ],
+    "syllables": [
+      "jelly"
+    ]
+  },
+  {
+    "word": "jewel",
+    "choices": [
+      "jewel",
+      "jewll",
+      "bewel"
+    ],
+    "syllables": [
+      "jew",
+      "el"
+    ]
+  },
+  {
+    "word": "joe",
+    "choices": [
+      "joe",
+      "ioe",
+      "jof"
+    ],
+    "syllables": [
+      "joe"
+    ]
+  },
+  {
+    "word": "jog",
+    "choices": [
+      "jog",
+      "jbg",
+      "jov"
+    ],
+    "syllables": [
+      "jog"
+    ]
+  },
+  {
+    "word": "join",
+    "choices": [
+      "join",
+      "john",
+      "joij"
+    ],
+    "syllables": [
+      "join"
+    ]
+  },
+  {
+    "word": "joint",
+    "choices": [
+      "joint",
+      "joina",
+      "jgint"
+    ],
+    "syllables": [
+      "joint"
+    ]
+  },
+  {
+    "word": "joke",
+    "choices": [
+      "joke",
+      "moke",
+      "jokj"
+    ],
+    "syllables": [
+      "joke"
+    ]
+  },
+  {
+    "word": "journey",
+    "choices": [
+      "journey",
+      "journty",
+      "journec"
+    ],
+    "syllables": [
+      "jour",
+      "ney"
+    ]
+  },
+  {
+    "word": "joy",
+    "choices": [
+      "joy",
+      "poy",
+      "woy"
+    ],
+    "syllables": [
+      "joy"
+    ]
+  },
+  {
+    "word": "juggle",
+    "choices": [
+      "juggle",
+      "kuggle",
+      "jqggle"
+    ],
+    "syllables": [
+      "juggle"
+    ]
+  },
+  {
+    "word": "juice",
+    "choices": [
+      "juice",
+      "jvice",
+      "muice"
+    ],
+    "syllables": [
+      "juice"
+    ]
+  },
+  {
+    "word": "jump",
+    "choices": [
+      "jump",
+      "jumn",
+      "dump"
+    ],
+    "syllables": [
+      "jump"
+    ]
+  },
+  {
+    "word": "jungle",
+    "choices": [
+      "jungle",
+      "jungoe",
+      "jungly"
+    ],
+    "syllables": [
+      "jungle"
+    ]
+  },
+  {
+    "word": "just",
+    "choices": [
+      "just",
+      "jusa",
+      "jusp"
+    ],
+    "syllables": [
+      "just"
+    ]
+  },
+  {
+    "word": "keep",
+    "choices": [
+      "keep",
+      "kerp",
+      "keer"
+    ],
+    "syllables": [
+      "keep"
+    ]
+  },
+  {
+    "word": "kernel",
+    "choices": [
+      "kernel",
+      "kfrnel",
+      "kernkl"
+    ],
+    "syllables": [
+      "ker",
+      "nel"
+    ]
+  },
+  {
+    "word": "key",
+    "choices": [
+      "key",
+      "bey",
+      "kky"
+    ],
+    "syllables": [
+      "key"
+    ]
+  },
+  {
+    "word": "kick",
+    "choices": [
+      "kick",
+      "kicn",
+      "kicc"
+    ],
+    "syllables": [
+      "kick"
+    ]
+  },
+  {
+    "word": "kind",
+    "choices": [
+      "kind",
+      "kinz",
+      "jind"
+    ],
+    "syllables": [
+      "kind"
+    ]
+  },
+  {
+    "word": "king",
+    "choices": [
+      "king",
+      "kisg",
+      "ying"
+    ],
+    "syllables": [
+      "king"
+    ]
+  },
+  {
+    "word": "kitchen",
+    "choices": [
+      "kitchen",
+      "kirchen",
+      "kgtchen"
+    ],
+    "syllables": [
+      "kit",
+      "chen"
+    ]
+  },
+  {
+    "word": "kite",
+    "choices": [
+      "kite",
+      "kibe",
+      "jite"
+    ],
+    "syllables": [
+      "kite"
+    ]
+  },
+  {
+    "word": "knack",
+    "choices": [
+      "knack",
+      "kndck",
+      "knask"
+    ],
+    "syllables": [
+      "knack"
+    ]
+  },
+  {
+    "word": "knead",
+    "choices": [
+      "knead",
+      "kneax",
+      "ynead"
+    ],
+    "syllables": [
+      "knead"
+    ]
+  },
+  {
+    "word": "knee",
+    "choices": [
+      "knee",
+      "kcee",
+      "bnee"
+    ],
+    "syllables": [
+      "knee"
+    ]
+  },
+  {
+    "word": "kneel",
+    "choices": [
+      "kneel",
+      "kseel",
+      "kbeel"
+    ],
+    "syllables": [
+      "kneel"
+    ]
+  },
+  {
+    "word": "knew",
+    "choices": [
+      "knew",
+      "knef",
+      "knrw"
+    ],
+    "syllables": [
+      "knew"
+    ]
+  },
+  {
+    "word": "knife",
+    "choices": [
+      "knife",
+      "knifu",
+      "knnfe"
+    ],
+    "syllables": [
+      "knife"
+    ]
+  },
+  {
+    "word": "knight",
+    "choices": [
+      "knight",
+      "knbght",
+      "kpight"
+    ],
+    "syllables": [
+      "knight"
+    ]
+  },
+  {
+    "word": "knit",
+    "choices": [
+      "knit",
+      "knic",
+      "kmit"
+    ],
+    "syllables": [
+      "knit"
+    ]
+  },
+  {
+    "word": "knitwear",
+    "choices": [
+      "knitwear",
+      "knitweae",
+      "knitfear"
+    ],
+    "syllables": [
+      "knit",
+      "wear"
+    ]
+  },
+  {
+    "word": "knob",
+    "choices": [
+      "knob",
+      "kdob",
+      "ktob"
+    ],
+    "syllables": [
+      "knob"
+    ]
+  },
+  {
+    "word": "knock",
+    "choices": [
+      "knock",
+      "knwck",
+      "jnock"
+    ],
+    "syllables": [
+      "knock"
+    ]
+  },
+  {
+    "word": "knoll",
+    "choices": [
+      "knoll",
+      "knoil",
+      "knrll"
+    ],
+    "syllables": [
+      "knoll"
+    ]
+  },
+  {
+    "word": "knot",
+    "choices": [
+      "knot",
+      "knoq",
+      "knoe"
+    ],
+    "syllables": [
+      "knot"
+    ]
+  },
+  {
+    "word": "know",
+    "choices": [
+      "know",
+      "knhw",
+      "jnow"
+    ],
+    "syllables": [
+      "know"
+    ]
+  },
+  {
+    "word": "knowledge",
+    "choices": [
+      "knowledge",
+      "xnowledge",
+      "knoweedge"
+    ],
+    "syllables": [
+      "know",
+      "ledge"
+    ]
+  },
+  {
+    "word": "knuckle",
+    "choices": [
+      "knuckle",
+      "kncckle",
+      "vnuckle"
+    ],
+    "syllables": [
+      "knuckle"
+    ]
+  },
+  {
+    "word": "lake",
+    "choices": [
+      "lake",
+      "eake",
+      "laqe"
+    ],
+    "syllables": [
+      "lake"
+    ]
+  },
+  {
+    "word": "lamb",
+    "choices": [
+      "lamb",
+      "wamb",
+      "xamb"
+    ],
+    "syllables": [
+      "lamb"
+    ]
+  },
+  {
+    "word": "lamp",
+    "choices": [
+      "lamp",
+      "ljmp",
+      "laap"
+    ],
+    "syllables": [
+      "lamp"
+    ]
+  },
+  {
+    "word": "lap",
+    "choices": [
+      "lap",
+      "lai",
+      "lvp"
+    ],
+    "syllables": [
+      "lap"
+    ]
+  },
+  {
+    "word": "laugh",
+    "choices": [
+      "laugh",
+      "laubh",
+      "lvugh"
+    ],
+    "syllables": [
+      "laugh"
+    ]
+  },
+  {
+    "word": "lavish",
+    "choices": [
+      "lavish",
+      "ltvish",
+      "laviuh"
+    ],
+    "syllables": [
+      "lav",
+      "ish"
+    ]
+  },
+  {
+    "word": "leaf",
+    "choices": [
+      "leaf",
+      "lhaf",
+      "leaa"
+    ],
+    "syllables": [
+      "leaf"
+    ]
+  },
+  {
+    "word": "light",
+    "choices": [
+      "light",
+      "liget",
+      "lmght"
+    ],
+    "syllables": [
+      "light"
+    ]
+  },
+  {
+    "word": "limit",
+    "choices": [
+      "limit",
+      "bimit",
+      "lumit"
+    ],
+    "syllables": [
+      "lim",
+      "it"
+    ]
+  },
+  {
+    "word": "line",
+    "choices": [
+      "line",
+      "lire",
+      "llne"
+    ],
+    "syllables": [
+      "line"
+    ]
+  },
+  {
+    "word": "load",
+    "choices": [
+      "load",
+      "lobd",
+      "woad"
+    ],
+    "syllables": [
+      "load"
+    ]
+  },
+  {
+    "word": "loaf",
+    "choices": [
+      "loaf",
+      "loag",
+      "joaf"
+    ],
+    "syllables": [
+      "loaf"
+    ]
+  },
+  {
+    "word": "lock",
+    "choices": [
+      "lock",
+      "qock",
+      "loxk"
+    ],
+    "syllables": [
+      "lock"
+    ]
+  },
+  {
+    "word": "log",
+    "choices": [
+      "log",
+      "lgg",
+      "lox"
+    ],
+    "syllables": [
+      "log"
+    ]
+  },
+  {
+    "word": "long",
+    "choices": [
+      "long",
+      "rong",
+      "lonc"
+    ],
+    "syllables": [
+      "long"
+    ]
+  },
+  {
+    "word": "look",
+    "choices": [
+      "look",
+      "loxk",
+      "lgok"
+    ],
+    "syllables": [
+      "look"
+    ]
+  },
+  {
+    "word": "loose",
+    "choices": [
+      "loose",
+      "koose",
+      "laose"
+    ],
+    "syllables": [
+      "loose"
+    ]
+  },
+  {
+    "word": "loud",
+    "choices": [
+      "loud",
+      "lkud",
+      "louo"
+    ],
+    "syllables": [
+      "loud"
+    ]
+  },
+  {
+    "word": "lough",
+    "choices": [
+      "lough",
+      "uough",
+      "lofgh"
+    ],
+    "syllables": [
+      "lough"
+    ]
+  },
+  {
+    "word": "love",
+    "choices": [
+      "love",
+      "lovn",
+      "lovm"
+    ],
+    "syllables": [
+      "love"
+    ]
+  },
+  {
+    "word": "loyal",
+    "choices": [
+      "loyal",
+      "ljyal",
+      "loyah"
+    ],
+    "syllables": [
+      "loy",
+      "al"
+    ]
+  },
+  {
+    "word": "lunch",
+    "choices": [
+      "lunch",
+      "llnch",
+      "munch"
+    ],
+    "syllables": [
+      "lunch"
+    ]
+  },
+  {
+    "word": "magic",
+    "choices": [
+      "magic",
+      "mvgic",
+      "mogic"
+    ],
+    "syllables": [
+      "ma",
+      "gic"
+    ]
+  },
+  {
+    "word": "man",
+    "choices": [
+      "man",
+      "mao",
+      "san"
+    ],
+    "syllables": [
+      "man"
+    ]
+  },
+  {
+    "word": "mansion",
+    "choices": [
+      "mansion",
+      "mansfon",
+      "mlnsion"
+    ],
+    "syllables": [
+      "man",
+      "sion"
+    ]
+  },
+  {
+    "word": "map",
+    "choices": [
+      "map",
+      "sap",
+      "maw"
+    ],
+    "syllables": [
+      "map"
+    ]
+  },
+  {
+    "word": "march",
+    "choices": [
+      "march",
+      "jarch",
+      "mzrch"
+    ],
+    "syllables": [
+      "march"
+    ]
+  },
+  {
+    "word": "match",
+    "choices": [
+      "match",
+      "mgtch",
+      "matvh"
+    ],
+    "syllables": [
+      "match"
+    ]
+  },
+  {
+    "word": "math",
+    "choices": [
+      "math",
+      "matw",
+      "matq"
+    ],
+    "syllables": [
+      "math"
+    ]
+  },
+  {
+    "word": "melt",
+    "choices": [
+      "melt",
+      "mklt",
+      "zelt"
+    ],
+    "syllables": [
+      "melt"
+    ]
+  },
+  {
+    "word": "mention",
+    "choices": [
+      "mention",
+      "menteon",
+      "mentioo"
+    ],
+    "syllables": [
+      "men",
+      "tion"
+    ]
+  },
+  {
+    "word": "might",
+    "choices": [
+      "might",
+      "mighb",
+      "uight"
+    ],
+    "syllables": [
+      "might"
+    ]
+  },
+  {
+    "word": "mildew",
+    "choices": [
+      "mildew",
+      "mipdew",
+      "mildel"
+    ],
+    "syllables": [
+      "mil",
+      "dew"
+    ]
+  },
+  {
+    "word": "milk",
+    "choices": [
+      "milk",
+      "zilk",
+      "milp"
+    ],
+    "syllables": [
+      "milk"
+    ]
+  },
+  {
+    "word": "minnow",
+    "choices": [
+      "minnow",
+      "zinnow",
+      "monnow"
+    ],
+    "syllables": [
+      "min",
+      "now"
+    ]
+  },
+  {
+    "word": "mirror",
+    "choices": [
+      "mirror",
+      "miroor",
+      "mirrob"
+    ],
+    "syllables": [
+      "mir",
+      "ror"
+    ]
+  },
+  {
+    "word": "mix",
+    "choices": [
+      "mix",
+      "min",
+      "miq"
+    ],
+    "syllables": [
+      "mix"
+    ]
+  },
+  {
+    "word": "mixed",
+    "choices": [
+      "mixed",
+      "mvxed",
+      "mixev"
+    ],
+    "syllables": [
+      "mixed"
+    ]
+  },
+  {
+    "word": "moan",
+    "choices": [
+      "moan",
+      "ioan",
+      "moac"
+    ],
+    "syllables": [
+      "moan"
+    ]
+  },
+  {
+    "word": "moist",
+    "choices": [
+      "moist",
+      "moiyt",
+      "mgist"
+    ],
+    "syllables": [
+      "moist"
+    ]
+  },
+  {
+    "word": "mood",
+    "choices": [
+      "mood",
+      "mooq",
+      "mond"
+    ],
+    "syllables": [
+      "mood"
+    ]
+  },
+  {
+    "word": "moon",
+    "choices": [
+      "moon",
+      "mzon",
+      "morn"
+    ],
+    "syllables": [
+      "moon"
+    ]
+  },
+  {
+    "word": "more",
+    "choices": [
+      "more",
+      "mone",
+      "qore"
+    ],
+    "syllables": [
+      "more"
+    ]
+  },
+  {
+    "word": "morph",
+    "choices": [
+      "morph",
+      "borph",
+      "morpp"
+    ],
+    "syllables": [
+      "morph"
+    ]
+  },
+  {
+    "word": "motion",
+    "choices": [
+      "motion",
+      "motihn",
+      "mrtion"
+    ],
+    "syllables": [
+      "mo",
+      "tion"
+    ]
+  },
+  {
+    "word": "mouse",
+    "choices": [
+      "mouse",
+      "moune",
+      "mowse"
+    ],
+    "syllables": [
+      "mouse"
+    ]
+  },
+  {
+    "word": "mouth",
+    "choices": [
+      "mouth",
+      "moutq",
+      "mouxh"
+    ],
+    "syllables": [
+      "mouth"
+    ]
+  },
+  {
+    "word": "move",
+    "choices": [
+      "move",
+      "aove",
+      "mose"
+    ],
+    "syllables": [
+      "move"
+    ]
+  },
+  {
+    "word": "mud",
+    "choices": [
+      "mud",
+      "mux",
+      "mut"
+    ],
+    "syllables": [
+      "mud"
+    ]
+  },
+  {
+    "word": "murmur",
+    "choices": [
+      "murmur",
+      "gurmur",
+      "murmuc"
+    ],
+    "syllables": [
+      "mur",
+      "mur"
+    ]
+  },
+  {
+    "word": "music",
+    "choices": [
+      "music",
+      "mudic",
+      "lusic"
+    ],
+    "syllables": [
+      "mu",
+      "sic"
+    ]
+  },
+  {
+    "word": "nail",
+    "choices": [
+      "nail",
+      "napl",
+      "naij"
+    ],
+    "syllables": [
+      "nail"
+    ]
+  },
+  {
+    "word": "name",
+    "choices": [
+      "name",
+      "namn",
+      "nake"
+    ],
+    "syllables": [
+      "name"
+    ]
+  },
+  {
+    "word": "nap",
+    "choices": [
+      "nap",
+      "rap",
+      "naj"
+    ],
+    "syllables": [
+      "nap"
+    ]
+  },
+  {
+    "word": "narrow",
+    "choices": [
+      "narrow",
+      "njrrow",
+      "nvrrow"
+    ],
+    "syllables": [
+      "nar",
+      "row"
+    ]
+  },
+  {
+    "word": "nation",
+    "choices": [
+      "nation",
+      "lation",
+      "natiin"
+    ],
+    "syllables": [
+      "na",
+      "tion"
+    ]
+  },
+  {
+    "word": "neat",
+    "choices": [
+      "neat",
+      "neap",
+      "nwat"
+    ],
+    "syllables": [
+      "neat"
+    ]
+  },
+  {
+    "word": "need",
+    "choices": [
+      "need",
+      "reed",
+      "qeed"
+    ],
+    "syllables": [
+      "need"
+    ]
+  },
+  {
+    "word": "nest",
+    "choices": [
+      "nest",
+      "mest",
+      "nesc"
+    ],
+    "syllables": [
+      "nest"
+    ]
+  },
+  {
+    "word": "net",
+    "choices": [
+      "net",
+      "nee",
+      "ret"
+    ],
+    "syllables": [
+      "net"
+    ]
+  },
+  {
+    "word": "never",
+    "choices": [
+      "never",
+      "nevsr",
+      "neveo"
+    ],
+    "syllables": [
+      "nev",
+      "er"
+    ]
+  },
+  {
+    "word": "next",
+    "choices": [
+      "next",
+      "fext",
+      "fext"
+    ],
+    "syllables": [
+      "next"
+    ]
+  },
+  {
+    "word": "nice",
+    "choices": [
+      "nice",
+      "niwe",
+      "niee"
+    ],
+    "syllables": [
+      "nice"
+    ]
+  },
+  {
+    "word": "night",
+    "choices": [
+      "night",
+      "nilht",
+      "ninht"
+    ],
+    "syllables": [
+      "night"
+    ]
+  },
+  {
+    "word": "noise",
+    "choices": [
+      "noise",
+      "noisd",
+      "noisc"
+    ],
+    "syllables": [
+      "noise"
+    ]
+  },
+  {
+    "word": "noon",
+    "choices": [
+      "noon",
+      "koon",
+      "eoon"
+    ],
+    "syllables": [
+      "noon"
+    ]
+  },
+  {
+    "word": "north",
+    "choices": [
+      "north",
+      "noruh",
+      "korth"
+    ],
+    "syllables": [
+      "north"
+    ]
+  },
+  {
+    "word": "nose",
+    "choices": [
+      "nose",
+      "nyse",
+      "nosp"
+    ],
+    "syllables": [
+      "nose"
+    ]
+  },
+  {
+    "word": "note",
+    "choices": [
+      "note",
+      "nots",
+      "nooe"
+    ],
+    "syllables": [
+      "note"
+    ]
+  },
+  {
+    "word": "now",
+    "choices": [
+      "now",
+      "bow",
+      "njw"
+    ],
+    "syllables": [
+      "now"
+    ]
+  },
+  {
+    "word": "number",
+    "choices": [
+      "number",
+      "nurber",
+      "nrmber"
+    ],
+    "syllables": [
+      "num",
+      "ber"
+    ]
+  },
+  {
+    "word": "nurse",
+    "choices": [
+      "nurse",
+      "nulse",
+      "nudse"
+    ],
+    "syllables": [
+      "nurse"
+    ]
+  },
+  {
+    "word": "oak",
+    "choices": [
+      "oak",
+      "lak",
+      "lak"
+    ],
+    "syllables": [
+      "oak"
+    ]
+  },
+  {
+    "word": "object",
+    "choices": [
+      "object",
+      "oxject",
+      "objeit"
+    ],
+    "syllables": [
+      "ob",
+      "ject"
+    ]
+  },
+  {
+    "word": "oboe",
+    "choices": [
+      "oboe",
+      "obot",
+      "obpe"
+    ],
+    "syllables": [
+      "oboe"
+    ]
+  },
+  {
+    "word": "occasion",
+    "choices": [
+      "occasion",
+      "qccasion",
+      "ogcasion"
+    ],
+    "syllables": [
+      "oc",
+      "ca",
+      "sion"
+    ]
+  },
+  {
+    "word": "ocean",
+    "choices": [
+      "ocean",
+      "ocdan",
+      "osean"
+    ],
+    "syllables": [
+      "ocean"
+    ]
+  },
+  {
+    "word": "odd",
+    "choices": [
+      "odd",
+      "odq",
+      "ood"
+    ],
+    "syllables": [
+      "odd"
+    ]
+  },
+  {
+    "word": "off",
+    "choices": [
+      "off",
+      "ozf",
+      "eff"
+    ],
+    "syllables": [
+      "off"
+    ]
+  },
+  {
+    "word": "offer",
+    "choices": [
+      "offer",
+      "ofder",
+      "offrr"
+    ],
+    "syllables": [
+      "of",
+      "fer"
+    ]
+  },
+  {
+    "word": "official",
+    "choices": [
+      "official",
+      "officifl",
+      "ofyicial"
+    ],
+    "syllables": [
+      "of",
+      "fi",
+      "cial"
+    ]
+  },
+  {
+    "word": "oil",
+    "choices": [
+      "oil",
+      "okl",
+      "oix"
+    ],
+    "syllables": [
+      "oil"
+    ]
+  },
+  {
+    "word": "old",
+    "choices": [
+      "old",
+      "vld",
+      "ojd"
+    ],
+    "syllables": [
+      "old"
+    ]
+  },
+  {
+    "word": "olives",
+    "choices": [
+      "olives",
+      "olxves",
+      "olivps"
+    ],
+    "syllables": [
+      "olives"
+    ]
+  },
+  {
+    "word": "on",
+    "choices": [
+      "on",
+      "ln",
+      "oj"
+    ],
+    "syllables": [
+      "on"
+    ]
+  },
+  {
+    "word": "only",
+    "choices": [
+      "only",
+      "oily",
+      "dnly"
+    ],
+    "syllables": [
+      "only"
+    ]
+  },
+  {
+    "word": "open",
+    "choices": [
+      "open",
+      "opmn",
+      "opln"
+    ],
+    "syllables": [
+      "open"
+    ]
+  },
+  {
+    "word": "orange",
+    "choices": [
+      "orange",
+      "okange",
+      "orpnge"
+    ],
+    "syllables": [
+      "or",
+      "ange"
+    ]
+  },
+  {
+    "word": "order",
+    "choices": [
+      "order",
+      "onder",
+      "ordbr"
+    ],
+    "syllables": [
+      "or",
+      "der"
+    ]
+  },
+  {
+    "word": "out",
+    "choices": [
+      "out",
+      "oue",
+      "oub"
+    ],
+    "syllables": [
+      "out"
+    ]
+  },
+  {
+    "word": "outfit",
+    "choices": [
+      "outfit",
+      "outfft",
+      "outfat"
+    ],
+    "syllables": [
+      "out",
+      "fit"
+    ]
+  },
+  {
+    "word": "outlet",
+    "choices": [
+      "outlet",
+      "outzet",
+      "outltt"
+    ],
+    "syllables": [
+      "out",
+      "let"
+    ]
+  },
+  {
+    "word": "over",
+    "choices": [
+      "over",
+      "qver",
+      "ooer"
+    ],
+    "syllables": [
+      "over"
+    ]
+  },
+  {
+    "word": "owl",
+    "choices": [
+      "owl",
+      "xwl",
+      "own"
+    ],
+    "syllables": [
+      "owl"
+    ]
+  },
+  {
+    "word": "padlock",
+    "choices": [
+      "padlock",
+      "padmock",
+      "padloyk"
+    ],
+    "syllables": [
+      "pad",
+      "lock"
+    ]
+  },
+  {
+    "word": "paint",
+    "choices": [
+      "paint",
+      "painn",
+      "pkint"
+    ],
+    "syllables": [
+      "paint"
+    ]
+  },
+  {
+    "word": "paper",
+    "choices": [
+      "paper",
+      "paker",
+      "puper"
+    ],
+    "syllables": [
+      "pa",
+      "per"
+    ]
+  },
+  {
+    "word": "partial",
+    "choices": [
+      "partial",
+      "oartial",
+      "paqtial"
+    ],
+    "syllables": [
+      "par",
+      "tial"
+    ]
+  },
+  {
+    "word": "party",
+    "choices": [
+      "party",
+      "partz",
+      "farty"
+    ],
+    "syllables": [
+      "party"
+    ]
+  },
+  {
+    "word": "patch",
+    "choices": [
+      "patch",
+      "pmtch",
+      "pctch"
+    ],
+    "syllables": [
+      "patch"
+    ]
+  },
+  {
+    "word": "path",
+    "choices": [
+      "path",
+      "patg",
+      "pjth"
+    ],
+    "syllables": [
+      "path"
+    ]
+  },
+  {
+    "word": "paw",
+    "choices": [
+      "paw",
+      "pav",
+      "puw"
+    ],
+    "syllables": [
+      "paw"
+    ]
+  },
+  {
+    "word": "pearl",
+    "choices": [
+      "pearl",
+      "pxarl",
+      "pelrl"
+    ],
+    "syllables": [
+      "pearl"
+    ]
+  },
+  {
+    "word": "pen",
+    "choices": [
+      "pen",
+      "hen",
+      "pyn"
+    ],
+    "syllables": [
+      "pen"
+    ]
+  },
+  {
+    "word": "phase",
+    "choices": [
+      "phase",
+      "phaje",
+      "phasa"
+    ],
+    "syllables": [
+      "phase"
+    ]
+  },
+  {
+    "word": "phone",
+    "choices": [
+      "phone",
+      "phonz",
+      "phony"
+    ],
+    "syllables": [
+      "phone"
+    ]
+  },
+  {
+    "word": "phonics",
+    "choices": [
+      "phonics",
+      "paonics",
+      "phonicf"
+    ],
+    "syllables": [
+      "phonics"
+    ]
+  },
+  {
+    "word": "photo",
+    "choices": [
+      "photo",
+      "ihoto",
+      "pqoto"
+    ],
+    "syllables": [
+      "photo"
+    ]
+  },
+  {
+    "word": "phrase",
+    "choices": [
+      "phrase",
+      "phraje",
+      "phraxe"
+    ],
+    "syllables": [
+      "phrase"
+    ]
+  },
+  {
+    "word": "physics",
+    "choices": [
+      "physics",
+      "phyiics",
+      "physicx"
+    ],
+    "syllables": [
+      "phys",
+      "ics"
+    ]
+  },
+  {
+    "word": "pie",
+    "choices": [
+      "pie",
+      "pix",
+      "piv"
+    ],
+    "syllables": [
+      "pie"
+    ]
+  },
+  {
+    "word": "piece",
+    "choices": [
+      "piece",
+      "puece",
+      "piecx"
+    ],
+    "syllables": [
+      "piece"
+    ]
+  },
+  {
+    "word": "pier",
+    "choices": [
+      "pier",
+      "pisr",
+      "picr"
+    ],
+    "syllables": [
+      "pier"
+    ]
+  },
+  {
+    "word": "pig",
+    "choices": [
+      "pig",
+      "pmg",
+      "rig"
+    ],
+    "syllables": [
+      "pig"
+    ]
+  },
+  {
+    "word": "pink",
+    "choices": [
+      "pink",
+      "pmnk",
+      "plnk"
+    ],
+    "syllables": [
+      "pink"
+    ]
+  },
+  {
+    "word": "plant",
+    "choices": [
+      "plant",
+      "pdant",
+      "plaft"
+    ],
+    "syllables": [
+      "plant"
+    ]
+  },
+  {
+    "word": "play",
+    "choices": [
+      "play",
+      "piay",
+      "plag"
+    ],
+    "syllables": [
+      "play"
+    ]
+  },
+  {
+    "word": "pledge",
+    "choices": [
+      "pledge",
+      "plewge",
+      "plsdge"
+    ],
+    "syllables": [
+      "pledge"
+    ]
+  },
+  {
+    "word": "plow",
+    "choices": [
+      "plow",
+      "ylow",
+      "slow"
+    ],
+    "syllables": [
+      "plow"
+    ]
+  },
+  {
+    "word": "point",
+    "choices": [
+      "point",
+      "coint",
+      "ooint"
+    ],
+    "syllables": [
+      "point"
+    ]
+  },
+  {
+    "word": "pool",
+    "choices": [
+      "pool",
+      "pook",
+      "poor"
+    ],
+    "syllables": [
+      "pool"
+    ]
+  },
+  {
+    "word": "pop",
+    "choices": [
+      "pop",
+      "dop",
+      "poh"
+    ],
+    "syllables": [
+      "pop"
+    ]
+  },
+  {
+    "word": "position",
+    "choices": [
+      "position",
+      "positmon",
+      "porition"
+    ],
+    "syllables": [
+      "po",
+      "s",
+      "i",
+      "tion"
+    ]
+  },
+  {
+    "word": "power",
+    "choices": [
+      "power",
+      "cower",
+      "powbr"
+    ],
+    "syllables": [
+      "power"
+    ]
+  },
+  {
+    "word": "press",
+    "choices": [
+      "press",
+      "pyess",
+      "presl"
+    ],
+    "syllables": [
+      "press"
+    ]
+  },
+  {
+    "word": "price",
+    "choices": [
+      "price",
+      "prico",
+      "pribe"
+    ],
+    "syllables": [
+      "price"
+    ]
+  },
+  {
+    "word": "proud",
+    "choices": [
+      "proud",
+      "prbud",
+      "probd"
+    ],
+    "syllables": [
+      "proud"
+    ]
+  },
+  {
+    "word": "purple",
+    "choices": [
+      "purple",
+      "pgrple",
+      "zurple"
+    ],
+    "syllables": [
+      "purple"
+    ]
+  },
+  {
+    "word": "purse",
+    "choices": [
+      "purse",
+      "turse",
+      "murse"
+    ],
+    "syllables": [
+      "purse"
+    ]
+  },
+  {
+    "word": "quack",
+    "choices": [
+      "quack",
+      "quacm",
+      "quacv"
+    ],
+    "syllables": [
+      "quack"
+    ]
+  },
+  {
+    "word": "quaint",
+    "choices": [
+      "quaint",
+      "quaimt",
+      "qqaint"
+    ],
+    "syllables": [
+      "quaint"
+    ]
+  },
+  {
+    "word": "quality",
+    "choices": [
+      "quality",
+      "ruality",
+      "qualitx"
+    ],
+    "syllables": [
+      "qual",
+      "ity"
+    ]
+  },
+  {
+    "word": "quarry",
+    "choices": [
+      "quarry",
+      "quwrry",
+      "qxarry"
+    ],
+    "syllables": [
+      "quarry"
+    ]
+  },
+  {
+    "word": "quarter",
+    "choices": [
+      "quarter",
+      "quartex",
+      "euarter"
+    ],
+    "syllables": [
+      "quarter"
+    ]
+  },
+  {
+    "word": "queen",
+    "choices": [
+      "queen",
+      "queei",
+      "queef"
+    ],
+    "syllables": [
+      "queen"
+    ]
+  },
+  {
+    "word": "quench",
+    "choices": [
+      "quench",
+      "quenqh",
+      "quenyh"
+    ],
+    "syllables": [
+      "quench"
+    ]
+  },
+  {
+    "word": "quest",
+    "choices": [
+      "quest",
+      "quett",
+      "quezt"
+    ],
+    "syllables": [
+      "quest"
+    ]
+  },
+  {
+    "word": "question",
+    "choices": [
+      "question",
+      "quejtion",
+      "questiov"
+    ],
+    "syllables": [
+      "ques",
+      "tion"
+    ]
+  },
+  {
+    "word": "quick",
+    "choices": [
+      "quick",
+      "quink",
+      "qurck"
+    ],
+    "syllables": [
+      "quick"
+    ]
+  },
+  {
+    "word": "quiet",
+    "choices": [
+      "quiet",
+      "quieu",
+      "juiet"
+    ],
+    "syllables": [
+      "quiet"
+    ]
+  },
+  {
+    "word": "quill",
+    "choices": [
+      "quill",
+      "qoill",
+      "suill"
+    ],
+    "syllables": [
+      "quill"
+    ]
+  },
+  {
+    "word": "quilt",
+    "choices": [
+      "quilt",
+      "qfilt",
+      "quizt"
+    ],
+    "syllables": [
+      "quilt"
+    ]
+  },
+  {
+    "word": "quit",
+    "choices": [
+      "quit",
+      "yuit",
+      "qudt"
+    ],
+    "syllables": [
+      "quit"
+    ]
+  },
+  {
+    "word": "quiver",
+    "choices": [
+      "quiver",
+      "zuiver",
+      "euiver"
+    ],
+    "syllables": [
+      "quiver"
+    ]
+  },
+  {
+    "word": "quote",
+    "choices": [
+      "quote",
+      "quoti",
+      "kuote"
+    ],
+    "syllables": [
+      "quote"
+    ]
+  },
+  {
+    "word": "raccoon",
+    "choices": [
+      "raccoon",
+      "caccoon",
+      "raccoin"
+    ],
+    "syllables": [
+      "rac",
+      "coon"
+    ]
+  },
+  {
+    "word": "race",
+    "choices": [
+      "race",
+      "rgce",
+      "racg"
+    ],
+    "syllables": [
+      "race"
+    ]
+  },
+  {
+    "word": "rain",
+    "choices": [
+      "rain",
+      "eain",
+      "bain"
+    ],
+    "syllables": [
+      "rain"
+    ]
+  },
+  {
+    "word": "ramp",
+    "choices": [
+      "ramp",
+      "ramc",
+      "ramz"
+    ],
+    "syllables": [
+      "ramp"
+    ]
+  },
+  {
+    "word": "reach",
+    "choices": [
+      "reach",
+      "ueach",
+      "reaca"
+    ],
+    "syllables": [
+      "reach"
+    ]
+  },
+  {
+    "word": "read",
+    "choices": [
+      "read",
+      "reao",
+      "zead"
+    ],
+    "syllables": [
+      "read"
+    ]
+  },
+  {
+    "word": "receive",
+    "choices": [
+      "receive",
+      "receivp",
+      "receiye"
+    ],
+    "syllables": [
+      "re",
+      "ceive"
+    ]
+  },
+  {
+    "word": "red",
+    "choices": [
+      "red",
+      "zed",
+      "ted"
+    ],
+    "syllables": [
+      "red"
+    ]
+  },
+  {
+    "word": "rein",
+    "choices": [
+      "rein",
+      "wein",
+      "uein"
+    ],
+    "syllables": [
+      "rein"
+    ]
+  },
+  {
+    "word": "rejoice",
+    "choices": [
+      "rejoice",
+      "rejoicj",
+      "rejoece"
+    ],
+    "syllables": [
+      "re",
+      "joice"
+    ]
+  },
+  {
+    "word": "relief",
+    "choices": [
+      "relief",
+      "reuief",
+      "reliem"
+    ],
+    "syllables": [
+      "re",
+      "lief"
+    ]
+  },
+  {
+    "word": "rest",
+    "choices": [
+      "rest",
+      "ryst",
+      "rmst"
+    ],
+    "syllables": [
+      "rest"
+    ]
+  },
+  {
+    "word": "revision",
+    "choices": [
+      "revision",
+      "revisijn",
+      "rcvision"
+    ],
+    "syllables": [
+      "re",
+      "vi",
+      "sion"
+    ]
+  },
+  {
+    "word": "ride",
+    "choices": [
+      "ride",
+      "riee",
+      "qide"
+    ],
+    "syllables": [
+      "ride"
+    ]
+  },
+  {
+    "word": "right",
+    "choices": [
+      "right",
+      "sight",
+      "righg"
+    ],
+    "syllables": [
+      "right"
+    ]
+  },
+  {
+    "word": "ring",
+    "choices": [
+      "ring",
+      "rkng",
+      "rjng"
+    ],
+    "syllables": [
+      "ring"
+    ]
+  },
+  {
+    "word": "river",
+    "choices": [
+      "river",
+      "riveo",
+      "rivsr"
+    ],
+    "syllables": [
+      "river"
+    ]
+  },
+  {
+    "word": "road",
+    "choices": [
+      "road",
+      "xoad",
+      "qoad"
+    ],
+    "syllables": [
+      "road"
+    ]
+  },
+  {
+    "word": "roam",
+    "choices": [
+      "roam",
+      "toam",
+      "koam"
+    ],
+    "syllables": [
+      "roam"
+    ]
+  },
+  {
+    "word": "rock",
+    "choices": [
+      "rock",
+      "rsck",
+      "wock"
+    ],
+    "syllables": [
+      "rock"
+    ]
+  },
+  {
+    "word": "roe",
+    "choices": [
+      "roe",
+      "hoe",
+      "doe"
+    ],
+    "syllables": [
+      "roe"
+    ]
+  },
+  {
+    "word": "room",
+    "choices": [
+      "room",
+      "romm",
+      "rool"
+    ],
+    "syllables": [
+      "room"
+    ]
+  },
+  {
+    "word": "root",
+    "choices": [
+      "root",
+      "rooq",
+      "roon"
+    ],
+    "syllables": [
+      "root"
+    ]
+  },
+  {
+    "word": "rope",
+    "choices": [
+      "rope",
+      "nope",
+      "ropm"
+    ],
+    "syllables": [
+      "rope"
+    ]
+  },
+  {
+    "word": "rotation",
+    "choices": [
+      "rotation",
+      "rozation",
+      "rotajion"
+    ],
+    "syllables": [
+      "ro",
+      "ta",
+      "tion"
+    ]
+  },
+  {
+    "word": "rough",
+    "choices": [
+      "rough",
+      "rojgh",
+      "rcugh"
+    ],
+    "syllables": [
+      "rough"
+    ]
+  },
+  {
+    "word": "round",
+    "choices": [
+      "round",
+      "rouno",
+      "rouad"
+    ],
+    "syllables": [
+      "round"
+    ]
+  },
+  {
+    "word": "royal",
+    "choices": [
+      "royal",
+      "joyal",
+      "royav"
+    ],
+    "syllables": [
+      "roy",
+      "al"
+    ]
+  },
+  {
+    "word": "run",
+    "choices": [
+      "run",
+      "ryn",
+      "rwn"
+    ],
+    "syllables": [
+      "run"
+    ]
+  },
+  {
+    "word": "rusted",
+    "choices": [
+      "rusted",
+      "rusaed",
+      "rusved"
+    ],
+    "syllables": [
+      "rus",
+      "ted"
+    ]
+  },
+  {
+    "word": "sad",
+    "choices": [
+      "sad",
+      "qad",
+      "mad"
+    ],
+    "syllables": [
+      "sad"
+    ]
+  },
+  {
+    "word": "sail",
+    "choices": [
+      "sail",
+      "sagl",
+      "saio"
+    ],
+    "syllables": [
+      "sail"
+    ]
+  },
+  {
+    "word": "sand",
+    "choices": [
+      "sand",
+      "saad",
+      "sanu"
+    ],
+    "syllables": [
+      "sand"
+    ]
+  },
+  {
+    "word": "sawdust",
+    "choices": [
+      "sawdust",
+      "sawdusl",
+      "sawdsst"
+    ],
+    "syllables": [
+      "saw",
+      "dust"
+    ]
+  },
+  {
+    "word": "scarf",
+    "choices": [
+      "scarf",
+      "svarf",
+      "acarf"
+    ],
+    "syllables": [
+      "scarf"
+    ]
+  },
+  {
+    "word": "school",
+    "choices": [
+      "school",
+      "sceool",
+      "syhool"
+    ],
+    "syllables": [
+      "school"
+    ]
+  },
+  {
+    "word": "score",
+    "choices": [
+      "score",
+      "scope",
+      "scare"
+    ],
+    "syllables": [
+      "score"
+    ]
+  },
+  {
+    "word": "scout",
+    "choices": [
+      "scout",
+      "scouz",
+      "scozt"
+    ],
+    "syllables": [
+      "scout"
+    ]
+  },
+  {
+    "word": "scratch",
+    "choices": [
+      "scratch",
+      "scbatch",
+      "scrctch"
+    ],
+    "syllables": [
+      "scratch"
+    ]
+  },
+  {
+    "word": "scream",
+    "choices": [
+      "scream",
+      "scrzam",
+      "scrfam"
+    ],
+    "syllables": [
+      "scream"
+    ]
+  },
+  {
+    "word": "seal",
+    "choices": [
+      "seal",
+      "seel",
+      "sebl"
+    ],
+    "syllables": [
+      "seal"
+    ]
+  },
+  {
+    "word": "search",
+    "choices": [
+      "search",
+      "seaich",
+      "vearch"
+    ],
+    "syllables": [
+      "search"
+    ]
+  },
+  {
+    "word": "see",
+    "choices": [
+      "see",
+      "cee",
+      "jee"
+    ],
+    "syllables": [
+      "see"
+    ]
+  },
+  {
+    "word": "seed",
+    "choices": [
+      "seed",
+      "reed",
+      "seek"
+    ],
+    "syllables": [
+      "seed"
+    ]
+  },
+  {
+    "word": "sell",
+    "choices": [
+      "sell",
+      "sjll",
+      "sels"
+    ],
+    "syllables": [
+      "sell"
+    ]
+  },
+  {
+    "word": "session",
+    "choices": [
+      "session",
+      "sesiion",
+      "sesspon"
+    ],
+    "syllables": [
+      "ses",
+      "sion"
+    ]
+  },
+  {
+    "word": "shame",
+    "choices": [
+      "shame",
+      "sbame",
+      "shzme"
+    ],
+    "syllables": [
+      "shame"
+    ]
+  },
+  {
+    "word": "shape",
+    "choices": [
+      "shape",
+      "rhape",
+      "shabe"
+    ],
+    "syllables": [
+      "shape"
+    ]
+  },
+  {
+    "word": "share",
+    "choices": [
+      "share",
+      "shure",
+      "siare"
+    ],
+    "syllables": [
+      "share"
+    ]
+  },
+  {
+    "word": "shark",
+    "choices": [
+      "shark",
+      "shari",
+      "shars"
+    ],
+    "syllables": [
+      "shark"
+    ]
+  },
+  {
+    "word": "sharp",
+    "choices": [
+      "sharp",
+      "oharp",
+      "sjarp"
+    ],
+    "syllables": [
+      "sharp"
+    ]
+  },
+  {
+    "word": "shell",
+    "choices": [
+      "shell",
+      "siell",
+      "sheyl"
+    ],
+    "syllables": [
+      "shell"
+    ]
+  },
+  {
+    "word": "shield",
+    "choices": [
+      "shield",
+      "ehield",
+      "shiesd"
+    ],
+    "syllables": [
+      "shield"
+    ]
+  },
+  {
+    "word": "shine",
+    "choices": [
+      "shine",
+      "khine",
+      "shpne"
+    ],
+    "syllables": [
+      "shine"
+    ]
+  },
+  {
+    "word": "ship",
+    "choices": [
+      "ship",
+      "saip",
+      "shrp"
+    ],
+    "syllables": [
+      "ship"
+    ]
+  },
+  {
+    "word": "shirt",
+    "choices": [
+      "shirt",
+      "shirg",
+      "shidt"
+    ],
+    "syllables": [
+      "shirt"
+    ]
+  },
+  {
+    "word": "shoe",
+    "choices": [
+      "shoe",
+      "ohoe",
+      "nhoe"
+    ],
+    "syllables": [
+      "shoe"
+    ]
+  },
+  {
+    "word": "shoes",
+    "choices": [
+      "shoes",
+      "szoes",
+      "shoem"
+    ],
+    "syllables": [
+      "shoes"
+    ]
+  },
+  {
+    "word": "shop",
+    "choices": [
+      "shop",
+      "shup",
+      "shsp"
+    ],
+    "syllables": [
+      "shop"
+    ]
+  },
+  {
+    "word": "shore",
+    "choices": [
+      "shore",
+      "bhore",
+      "shoru"
+    ],
+    "syllables": [
+      "shore"
+    ]
+  },
+  {
+    "word": "short",
+    "choices": [
+      "short",
+      "qhort",
+      "shory"
+    ],
+    "syllables": [
+      "short"
+    ]
+  },
+  {
+    "word": "shout",
+    "choices": [
+      "shout",
+      "shobt",
+      "shtut"
+    ],
+    "syllables": [
+      "shout"
+    ]
+  },
+  {
+    "word": "shovel",
+    "choices": [
+      "shovel",
+      "shtvel",
+      "shotel"
+    ],
+    "syllables": [
+      "shovel"
+    ]
+  },
+  {
+    "word": "show",
+    "choices": [
+      "show",
+      "stow",
+      "qhow"
+    ],
+    "syllables": [
+      "show"
+    ]
+  },
+  {
+    "word": "shred",
+    "choices": [
+      "shred",
+      "shrep",
+      "shded"
+    ],
+    "syllables": [
+      "shred"
+    ]
+  },
+  {
+    "word": "shriek",
+    "choices": [
+      "shriek",
+      "shrieu",
+      "shrrek"
+    ],
+    "syllables": [
+      "shriek"
+    ]
+  },
+  {
+    "word": "shrink",
+    "choices": [
+      "shrink",
+      "shriny",
+      "shrijk"
+    ],
+    "syllables": [
+      "shrink"
+    ]
+  },
+  {
+    "word": "shrunk",
+    "choices": [
+      "shrunk",
+      "sqrunk",
+      "shaunk"
+    ],
+    "syllables": [
+      "shrunk"
+    ]
+  },
+  {
+    "word": "shut",
+    "choices": [
+      "shut",
+      "sdut",
+      "sxut"
+    ],
+    "syllables": [
+      "shut"
+    ]
+  },
+  {
+    "word": "sight",
+    "choices": [
+      "sight",
+      "sigrt",
+      "sighz"
+    ],
+    "syllables": [
+      "sight"
+    ]
+  },
+  {
+    "word": "sign",
+    "choices": [
+      "sign",
+      "sigh",
+      "siwn"
+    ],
+    "syllables": [
+      "sign"
+    ]
+  },
+  {
+    "word": "silver",
+    "choices": [
+      "silver",
+      "silvfr",
+      "sslver"
+    ],
+    "syllables": [
+      "sil",
+      "ver"
+    ]
+  },
+  {
+    "word": "sing",
+    "choices": [
+      "sing",
+      "sini",
+      "shng"
+    ],
+    "syllables": [
+      "sing"
+    ]
+  },
+  {
+    "word": "sit",
+    "choices": [
+      "sit",
+      "siz",
+      "xit"
+    ],
+    "syllables": [
+      "sit"
+    ]
+  },
+  {
+    "word": "six",
+    "choices": [
+      "six",
+      "cix",
+      "gix"
+    ],
+    "syllables": [
+      "six"
+    ]
+  },
+  {
+    "word": "sixteen",
+    "choices": [
+      "sixteen",
+      "sixzeen",
+      "sitteen"
+    ],
+    "syllables": [
+      "six",
+      "teen"
+    ]
+  },
+  {
+    "word": "sketch",
+    "choices": [
+      "sketch",
+      "sqetch",
+      "skewch"
+    ],
+    "syllables": [
+      "sketch"
+    ]
+  },
+  {
+    "word": "skirt",
+    "choices": [
+      "skirt",
+      "skvrt",
+      "sxirt"
+    ],
+    "syllables": [
+      "skirt"
+    ]
+  },
+  {
+    "word": "slight",
+    "choices": [
+      "slight",
+      "slioht",
+      "nlight"
+    ],
+    "syllables": [
+      "slight"
+    ]
+  },
+  {
+    "word": "slough",
+    "choices": [
+      "slough",
+      "rlough",
+      "slougy"
+    ],
+    "syllables": [
+      "slough"
+    ]
+  },
+  {
+    "word": "slow",
+    "choices": [
+      "slow",
+      "sldw",
+      "slok"
+    ],
+    "syllables": [
+      "slow"
+    ]
+  },
+  {
+    "word": "sluice",
+    "choices": [
+      "sluice",
+      "mluice",
+      "sluise"
+    ],
+    "syllables": [
+      "sluice"
+    ]
+  },
+  {
+    "word": "smudge",
+    "choices": [
+      "smudge",
+      "smudgy",
+      "smqdge"
+    ],
+    "syllables": [
+      "smudge"
+    ]
+  },
+  {
+    "word": "snag",
+    "choices": [
+      "snag",
+      "onag",
+      "sngg"
+    ],
+    "syllables": [
+      "snag"
+    ]
+  },
+  {
+    "word": "snatch",
+    "choices": [
+      "snatch",
+      "snatth",
+      "sqatch"
+    ],
+    "syllables": [
+      "snatch"
+    ]
+  },
+  {
+    "word": "snout",
+    "choices": [
+      "snout",
+      "swout",
+      "anout"
+    ],
+    "syllables": [
+      "snout"
+    ]
+  },
+  {
+    "word": "snow",
+    "choices": [
+      "snow",
+      "lnow",
+      "snom"
+    ],
+    "syllables": [
+      "snow"
+    ]
+  },
+  {
+    "word": "soap",
+    "choices": [
+      "soap",
+      "koap",
+      "soab"
+    ],
+    "syllables": [
+      "soap"
+    ]
+  },
+  {
+    "word": "sock",
+    "choices": [
+      "sock",
+      "sjck",
+      "srck"
+    ],
+    "syllables": [
+      "sock"
+    ]
+  },
+  {
+    "word": "soft",
+    "choices": [
+      "soft",
+      "roft",
+      "koft"
+    ],
+    "syllables": [
+      "soft"
+    ]
+  },
+  {
+    "word": "soil",
+    "choices": [
+      "soil",
+      "toil",
+      "soll"
+    ],
+    "syllables": [
+      "soil"
+    ]
+  },
+  {
+    "word": "solution",
+    "choices": [
+      "solution",
+      "soluhion",
+      "soluthon"
+    ],
+    "syllables": [
+      "solu",
+      "tion"
+    ]
+  },
+  {
+    "word": "song",
+    "choices": [
+      "song",
+      "szng",
+      "soog"
+    ],
+    "syllables": [
+      "song"
+    ]
+  },
+  {
+    "word": "soon",
+    "choices": [
+      "soon",
+      "xoon",
+      "sion"
+    ],
+    "syllables": [
+      "soon"
+    ]
+  },
+  {
+    "word": "sound",
+    "choices": [
+      "sound",
+      "souno",
+      "soubd"
+    ],
+    "syllables": [
+      "sound"
+    ]
+  },
+  {
+    "word": "soup",
+    "choices": [
+      "soup",
+      "coup",
+      "sojp"
+    ],
+    "syllables": [
+      "soup"
+    ]
+  },
+  {
+    "word": "south",
+    "choices": [
+      "south",
+      "soudh",
+      "souyh"
+    ],
+    "syllables": [
+      "south"
+    ]
+  },
+  {
+    "word": "soy",
+    "choices": [
+      "soy",
+      "sos",
+      "sov"
+    ],
+    "syllables": [
+      "soy"
+    ]
+  },
+  {
+    "word": "sphinx",
+    "choices": [
+      "sphinx",
+      "spbinx",
+      "sphino"
+    ],
+    "syllables": [
+      "sphinx"
+    ]
+  },
+  {
+    "word": "splotch",
+    "choices": [
+      "splotch",
+      "splotcn",
+      "lplotch"
+    ],
+    "syllables": [
+      "splotch"
+    ]
+  },
+  {
+    "word": "spoil",
+    "choices": [
+      "spoil",
+      "spoij",
+      "spofl"
+    ],
+    "syllables": [
+      "spoil"
+    ]
+  },
+  {
+    "word": "spoon",
+    "choices": [
+      "spoon",
+      "spopn",
+      "skoon"
+    ],
+    "syllables": [
+      "spoon"
+    ]
+  },
+  {
+    "word": "sport",
+    "choices": [
+      "sport",
+      "spoht",
+      "oport"
+    ],
+    "syllables": [
+      "sport"
+    ]
+  },
+  {
+    "word": "spray",
+    "choices": [
+      "spray",
+      "sprab",
+      "srray"
+    ],
+    "syllables": [
+      "spray"
+    ]
+  },
+  {
+    "word": "spring",
+    "choices": [
+      "spring",
+      "vpring",
+      "zpring"
+    ],
+    "syllables": [
+      "spring"
+    ]
+  },
+  {
+    "word": "squirt",
+    "choices": [
+      "squirt",
+      "squiet",
+      "stuirt"
+    ],
+    "syllables": [
+      "squirt"
+    ]
+  },
+  {
+    "word": "stain",
+    "choices": [
+      "stain",
+      "staun",
+      "sbain"
+    ],
+    "syllables": [
+      "stain"
+    ]
+  },
+  {
+    "word": "station",
+    "choices": [
+      "station",
+      "statifn",
+      "spation"
+    ],
+    "syllables": [
+      "sta",
+      "tion"
+    ]
+  },
+  {
+    "word": "stew",
+    "choices": [
+      "stew",
+      "stww",
+      "stzw"
+    ],
+    "syllables": [
+      "stew"
+    ]
+  },
+  {
+    "word": "sting",
+    "choices": [
+      "sting",
+      "stcng",
+      "stung"
+    ],
+    "syllables": [
+      "sting"
+    ]
+  },
+  {
+    "word": "stir",
+    "choices": [
+      "stir",
+      "stid",
+      "stiy"
+    ],
+    "syllables": [
+      "stir"
+    ]
+  },
+  {
+    "word": "stood",
+    "choices": [
+      "stood",
+      "stdod",
+      "stoid"
+    ],
+    "syllables": [
+      "stood"
+    ]
+  },
+  {
+    "word": "store",
+    "choices": [
+      "store",
+      "sqore",
+      "xtore"
+    ],
+    "syllables": [
+      "store"
+    ]
+  },
+  {
+    "word": "stork",
+    "choices": [
+      "stork",
+      "stgrk",
+      "ptork"
+    ],
+    "syllables": [
+      "stork"
+    ]
+  },
+  {
+    "word": "storm",
+    "choices": [
+      "storm",
+      "storu",
+      "sform"
+    ],
+    "syllables": [
+      "storm"
+    ]
+  },
+  {
+    "word": "straw",
+    "choices": [
+      "straw",
+      "styaw",
+      "soraw"
+    ],
+    "syllables": [
+      "straw"
+    ]
+  },
+  {
+    "word": "street",
+    "choices": [
+      "street",
+      "sereet",
+      "stpeet"
+    ],
+    "syllables": [
+      "street"
+    ]
+  },
+  {
+    "word": "stretch",
+    "choices": [
+      "stretch",
+      "stretci",
+      "ztretch"
+    ],
+    "syllables": [
+      "stretch"
+    ]
+  },
+  {
+    "word": "strewn",
+    "choices": [
+      "strewn",
+      "atrewn",
+      "syrewn"
+    ],
+    "syllables": [
+      "strewn"
+    ]
+  },
+  {
+    "word": "strong",
+    "choices": [
+      "strong",
+      "stjong",
+      "sarong"
+    ],
+    "syllables": [
+      "strong"
+    ]
+  },
+  {
+    "word": "struck",
+    "choices": [
+      "struck",
+      "suruck",
+      "stryck"
+    ],
+    "syllables": [
+      "struck"
+    ]
+  },
+  {
+    "word": "suit",
+    "choices": [
+      "suit",
+      "suiz",
+      "siit"
+    ],
+    "syllables": [
+      "suit"
+    ]
+  },
+  {
+    "word": "sun",
+    "choices": [
+      "sun",
+      "sqn",
+      "suz"
+    ],
+    "syllables": [
+      "sun"
+    ]
+  },
+  {
+    "word": "surf",
+    "choices": [
+      "surf",
+      "sutf",
+      "sugf"
+    ],
+    "syllables": [
+      "surf"
+    ]
+  },
+  {
+    "word": "sweatpants",
+    "choices": [
+      "sweatpants",
+      "swcatpants",
+      "sieatpants"
+    ],
+    "syllables": [
+      "sweat",
+      "pants"
+    ]
+  },
+  {
+    "word": "sweet",
+    "choices": [
+      "sweet",
+      "cweet",
+      "oweet"
+    ],
+    "syllables": [
+      "sweet"
+    ]
+  },
+  {
+    "word": "swimsuit",
+    "choices": [
+      "swimsuit",
+      "swiesuit",
+      "swimsumt"
+    ],
+    "syllables": [
+      "swim",
+      "suit"
+    ]
+  },
+  {
+    "word": "swing",
+    "choices": [
+      "swing",
+      "swtng",
+      "swinr"
+    ],
+    "syllables": [
+      "swing"
+    ]
+  },
+  {
+    "word": "switch",
+    "choices": [
+      "switch",
+      "swizch",
+      "swktch"
+    ],
+    "syllables": [
+      "switch"
+    ]
+  },
+  {
+    "word": "swung",
+    "choices": [
+      "swung",
+      "swuqg",
+      "ywung"
+    ],
+    "syllables": [
+      "swung"
+    ]
+  },
+  {
+    "word": "symphony",
+    "choices": [
+      "symphony",
+      "symphonk",
+      "symphkny"
+    ],
+    "syllables": [
+      "sym",
+      "phony"
+    ]
+  },
+  {
+    "word": "tail",
+    "choices": [
+      "tail",
+      "taib",
+      "teil"
+    ],
+    "syllables": [
+      "tail"
+    ]
+  },
+  {
+    "word": "talk",
+    "choices": [
+      "talk",
+      "tflk",
+      "tvlk"
+    ],
+    "syllables": [
+      "talk"
+    ]
+  },
+  {
+    "word": "tall",
+    "choices": [
+      "tall",
+      "fall",
+      "tale"
+    ],
+    "syllables": [
+      "tall"
+    ]
+  },
+  {
+    "word": "tap",
+    "choices": [
+      "tap",
+      "typ",
+      "taw"
+    ],
+    "syllables": [
+      "tap"
+    ]
+  },
+  {
+    "word": "taught",
+    "choices": [
+      "taught",
+      "qaught",
+      "tauxht"
+    ],
+    "syllables": [
+      "taught"
+    ]
+  },
+  {
+    "word": "teach",
+    "choices": [
+      "teach",
+      "teacw",
+      "teaqh"
+    ],
+    "syllables": [
+      "teach"
+    ]
+  },
+  {
+    "word": "team",
+    "choices": [
+      "team",
+      "seam",
+      "tram"
+    ],
+    "syllables": [
+      "team"
+    ]
+  },
+  {
+    "word": "tear",
+    "choices": [
+      "tear",
+      "temr",
+      "teas"
+    ],
+    "syllables": [
+      "tear"
+    ]
+  },
+  {
+    "word": "tech",
+    "choices": [
+      "tech",
+      "tebh",
+      "tecv"
+    ],
+    "syllables": [
+      "tech"
+    ]
+  },
+  {
+    "word": "television",
+    "choices": [
+      "television",
+      "tekevision",
+      "televirion"
+    ],
+    "syllables": [
+      "tele",
+      "vi",
+      "sion"
+    ]
+  },
+  {
+    "word": "ten",
+    "choices": [
+      "ten",
+      "ren",
+      "len"
+    ],
+    "syllables": [
+      "ten"
+    ]
+  },
+  {
+    "word": "tension",
+    "choices": [
+      "tension",
+      "tensxon",
+      "tenslon"
+    ],
+    "syllables": [
+      "ten",
+      "sion"
+    ]
+  },
+  {
+    "word": "text",
+    "choices": [
+      "text",
+      "tejt",
+      "teat"
+    ],
+    "syllables": [
+      "text"
+    ]
+  },
+  {
+    "word": "thank",
+    "choices": [
+      "thank",
+      "thani",
+      "thauk"
+    ],
+    "syllables": [
+      "thank"
+    ]
+  },
+  {
+    "word": "that",
+    "choices": [
+      "that",
+      "tzat",
+      "lhat"
+    ],
+    "syllables": [
+      "that"
+    ]
+  },
+  {
+    "word": "them",
+    "choices": [
+      "them",
+      "tjem",
+      "thqm"
+    ],
+    "syllables": [
+      "them"
+    ]
+  },
+  {
+    "word": "thick",
+    "choices": [
+      "thick",
+      "ihick",
+      "whick"
+    ],
+    "syllables": [
+      "thick"
+    ]
+  },
+  {
+    "word": "thin",
+    "choices": [
+      "thin",
+      "thie",
+      "thii"
+    ],
+    "syllables": [
+      "thin"
+    ]
+  },
+  {
+    "word": "thing",
+    "choices": [
+      "thing",
+      "jhing",
+      "thsng"
+    ],
+    "syllables": [
+      "thing"
+    ]
+  },
+  {
+    "word": "think",
+    "choices": [
+      "think",
+      "dhink",
+      "thini"
+    ],
+    "syllables": [
+      "think"
+    ]
+  },
+  {
+    "word": "third",
+    "choices": [
+      "third",
+      "thirn",
+      "tlird"
+    ],
+    "syllables": [
+      "third"
+    ]
+  },
+  {
+    "word": "thirst",
+    "choices": [
+      "thirst",
+      "dhirst",
+      "tzirst"
+    ],
+    "syllables": [
+      "thirst"
+    ]
+  },
+  {
+    "word": "thirteen",
+    "choices": [
+      "thirteen",
+      "thirteeh",
+      "thirtten"
+    ],
+    "syllables": [
+      "thir",
+      "teen"
+    ]
+  },
+  {
+    "word": "thirty",
+    "choices": [
+      "thirty",
+      "thipty",
+      "thirmy"
+    ],
+    "syllables": [
+      "thirty"
+    ]
+  },
+  {
+    "word": "this",
+    "choices": [
+      "this",
+      "thim",
+      "thqs"
+    ],
+    "syllables": [
+      "this"
+    ]
+  },
+  {
+    "word": "thorn",
+    "choices": [
+      "thorn",
+      "trorn",
+      "thown"
+    ],
+    "syllables": [
+      "thorn"
+    ]
+  },
+  {
+    "word": "thorough",
+    "choices": [
+      "thorough",
+      "thoroufh",
+      "thohough"
+    ],
+    "syllables": [
+      "thor",
+      "ough"
+    ]
+  },
+  {
+    "word": "though",
+    "choices": [
+      "though",
+      "thiugh",
+      "thoagh"
+    ],
+    "syllables": [
+      "though"
+    ]
+  },
+  {
+    "word": "thought",
+    "choices": [
+      "thought",
+      "thoughj",
+      "thojght"
+    ],
+    "syllables": [
+      "thought"
+    ]
+  },
+  {
+    "word": "three",
+    "choices": [
+      "three",
+      "tdree",
+      "ihree"
+    ],
+    "syllables": [
+      "three"
+    ]
+  },
+  {
+    "word": "through",
+    "choices": [
+      "through",
+      "thqough",
+      "throjgh"
+    ],
+    "syllables": [
+      "through"
+    ]
+  },
+  {
+    "word": "throw",
+    "choices": [
+      "throw",
+      "xhrow",
+      "thbow"
+    ],
+    "syllables": [
+      "throw"
+    ]
+  },
+  {
+    "word": "thumb",
+    "choices": [
+      "thumb",
+      "thcmb",
+      "txumb"
+    ],
+    "syllables": [
+      "thumb"
+    ]
+  },
+  {
+    "word": "thunder",
+    "choices": [
+      "thunder",
+      "thcnder",
+      "thunmer"
+    ],
+    "syllables": [
+      "thun",
+      "der"
+    ]
+  },
+  {
+    "word": "tie",
+    "choices": [
+      "tie",
+      "the",
+      "fie"
+    ],
+    "syllables": [
+      "tie"
+    ]
+  },
+  {
+    "word": "tiger",
+    "choices": [
+      "tiger",
+      "tigpr",
+      "tiges"
+    ],
+    "syllables": [
+      "ti",
+      "ger"
+    ]
+  },
+  {
+    "word": "tight",
+    "choices": [
+      "tight",
+      "tkght",
+      "uight"
+    ],
+    "syllables": [
+      "tight"
+    ]
+  },
+  {
+    "word": "time",
+    "choices": [
+      "time",
+      "timg",
+      "fime"
+    ],
+    "syllables": [
+      "time"
+    ]
+  },
+  {
+    "word": "tinfoil",
+    "choices": [
+      "tinfoil",
+      "tinwoil",
+      "tinftil"
+    ],
+    "syllables": [
+      "tin",
+      "foil"
+    ]
+  },
+  {
+    "word": "tip",
+    "choices": [
+      "tip",
+      "tvp",
+      "xip"
+    ],
+    "syllables": [
+      "tip"
+    ]
+  },
+  {
+    "word": "toad",
+    "choices": [
+      "toad",
+      "toam",
+      "toai"
+    ],
+    "syllables": [
+      "toad"
+    ]
+  },
+  {
+    "word": "toe",
+    "choices": [
+      "toe",
+      "noe",
+      "loe"
+    ],
+    "syllables": [
+      "toe"
+    ]
+  },
+  {
+    "word": "toil",
+    "choices": [
+      "toil",
+      "tail",
+      "loil"
+    ],
+    "syllables": [
+      "toil"
+    ]
+  },
+  {
+    "word": "tool",
+    "choices": [
+      "tool",
+      "tlol",
+      "tfol"
+    ],
+    "syllables": [
+      "tool"
+    ]
+  },
+  {
+    "word": "tooth",
+    "choices": [
+      "tooth",
+      "xooth",
+      "toonh"
+    ],
+    "syllables": [
+      "tooth"
+    ]
+  },
+  {
+    "word": "top",
+    "choices": [
+      "top",
+      "typ",
+      "tgp"
+    ],
+    "syllables": [
+      "top"
+    ]
+  },
+  {
+    "word": "toucan",
+    "choices": [
+      "toucan",
+      "tyucan",
+      "tobcan"
+    ],
+    "syllables": [
+      "tou",
+      "can"
+    ]
+  },
+  {
+    "word": "touch",
+    "choices": [
+      "touch",
+      "tkuch",
+      "touzh"
+    ],
+    "syllables": [
+      "touch"
+    ]
+  },
+  {
+    "word": "toy",
+    "choices": [
+      "toy",
+      "tom",
+      "soy"
+    ],
+    "syllables": [
+      "toy"
+    ]
+  },
+  {
+    "word": "trick",
+    "choices": [
+      "trick",
+      "taick",
+      "triak"
+    ],
+    "syllables": [
+      "trick"
+    ]
+  },
+  {
+    "word": "triumph",
+    "choices": [
+      "triumph",
+      "triumqh",
+      "tziumph"
+    ],
+    "syllables": [
+      "tri",
+      "umph"
+    ]
+  },
+  {
+    "word": "trophy",
+    "choices": [
+      "trophy",
+      "trodhy",
+      "tropyy"
+    ],
+    "syllables": [
+      "trophy"
+    ]
+  },
+  {
+    "word": "turn",
+    "choices": [
+      "turn",
+      "tubn",
+      "tufn"
+    ],
+    "syllables": [
+      "turn"
+    ]
+  },
+  {
+    "word": "twirl",
+    "choices": [
+      "twirl",
+      "twbrl",
+      "twira"
+    ],
+    "syllables": [
+      "twirl"
+    ]
+  },
+  {
+    "word": "umbrella",
+    "choices": [
+      "umbrella",
+      "umurella",
+      "umbrelva"
+    ],
+    "syllables": [
+      "um",
+      "brella"
+    ]
+  },
+  {
+    "word": "uncle",
+    "choices": [
+      "uncle",
+      "qncle",
+      "uzcle"
+    ],
+    "syllables": [
+      "uncle"
+    ]
+  },
+  {
+    "word": "uncoil",
+    "choices": [
+      "uncoil",
+      "uncoij",
+      "uncool"
+    ],
+    "syllables": [
+      "un",
+      "coil"
+    ]
+  },
+  {
+    "word": "uncork",
+    "choices": [
+      "uncork",
+      "ungork",
+      "uycork"
+    ],
+    "syllables": [
+      "un",
+      "cork"
+    ]
+  },
+  {
+    "word": "under",
+    "choices": [
+      "under",
+      "tnder",
+      "rnder"
+    ],
+    "syllables": [
+      "un",
+      "der"
+    ]
+  },
+  {
+    "word": "undo",
+    "choices": [
+      "undo",
+      "zndo",
+      "uxdo"
+    ],
+    "syllables": [
+      "undo"
+    ]
+  },
+  {
+    "word": "unfair",
+    "choices": [
+      "unfair",
+      "unfaik",
+      "unzair"
+    ],
+    "syllables": [
+      "un",
+      "fair"
+    ]
+  },
+  {
+    "word": "unhook",
+    "choices": [
+      "unhook",
+      "unhsok",
+      "uahook"
+    ],
+    "syllables": [
+      "un",
+      "hook"
+    ]
+  },
+  {
+    "word": "uniform",
+    "choices": [
+      "uniform",
+      "cniform",
+      "pniform"
+    ],
+    "syllables": [
+      "uni",
+      "form"
+    ]
+  },
+  {
+    "word": "unit",
+    "choices": [
+      "unit",
+      "uniu",
+      "unih"
+    ],
+    "syllables": [
+      "unit"
+    ]
+  },
+  {
+    "word": "unlatch",
+    "choices": [
+      "unlatch",
+      "ynlatch",
+      "unlauch"
+    ],
+    "syllables": [
+      "un",
+      "latch"
+    ]
+  },
+  {
+    "word": "unlearn",
+    "choices": [
+      "unlearn",
+      "unlearf",
+      "unleorn"
+    ],
+    "syllables": [
+      "un",
+      "learn"
+    ]
+  },
+  {
+    "word": "unpack",
+    "choices": [
+      "unpack",
+      "ugpack",
+      "unoack"
+    ],
+    "syllables": [
+      "un",
+      "pack"
+    ]
+  },
+  {
+    "word": "unseen",
+    "choices": [
+      "unseen",
+      "unsenn",
+      "unseej"
+    ],
+    "syllables": [
+      "un",
+      "seen"
+    ]
+  },
+  {
+    "word": "until",
+    "choices": [
+      "until",
+      "uytil",
+      "zntil"
+    ],
+    "syllables": [
+      "un",
+      "til"
+    ]
+  },
+  {
+    "word": "up",
+    "choices": [
+      "up",
+      "rp",
+      "ul"
+    ],
+    "syllables": [
+      "up"
+    ]
+  },
+  {
+    "word": "upload",
+    "choices": [
+      "upload",
+      "upqoad",
+      "epload"
+    ],
+    "syllables": [
+      "up",
+      "load"
+    ]
+  },
+  {
+    "word": "urban",
+    "choices": [
+      "urban",
+      "lrban",
+      "urbwn"
+    ],
+    "syllables": [
+      "urb",
+      "an"
+    ]
+  },
+  {
+    "word": "urge",
+    "choices": [
+      "urge",
+      "urgr",
+      "unge"
+    ],
+    "syllables": [
+      "urge"
+    ]
+  },
+  {
+    "word": "us",
+    "choices": [
+      "us",
+      "vs",
+      "is"
+    ],
+    "syllables": [
+      "us"
+    ]
+  },
+  {
+    "word": "use",
+    "choices": [
+      "use",
+      "usn",
+      "ume"
+    ],
+    "syllables": [
+      "use"
+    ]
+  },
+  {
+    "word": "usual",
+    "choices": [
+      "usual",
+      "usval",
+      "usuql"
+    ],
+    "syllables": [
+      "usu",
+      "al"
+    ]
+  },
+  {
+    "word": "utter",
+    "choices": [
+      "utter",
+      "uttbr",
+      "ctter"
+    ],
+    "syllables": [
+      "ut",
+      "ter"
+    ]
+  },
+  {
+    "word": "vacuum",
+    "choices": [
+      "vacuum",
+      "vackum",
+      "vayuum"
+    ],
+    "syllables": [
+      "va",
+      "cu",
+      "um"
+    ]
+  },
+  {
+    "word": "valley",
+    "choices": [
+      "valley",
+      "valoey",
+      "qalley"
+    ],
+    "syllables": [
+      "val",
+      "ley"
+    ]
+  },
+  {
+    "word": "value",
+    "choices": [
+      "value",
+      "valce",
+      "vaeue"
+    ],
+    "syllables": [
+      "value"
+    ]
+  },
+  {
+    "word": "van",
+    "choices": [
+      "van",
+      "ran",
+      "vaw"
+    ],
+    "syllables": [
+      "van"
+    ]
+  },
+  {
+    "word": "vase",
+    "choices": [
+      "vase",
+      "vaso",
+      "vasf"
+    ],
+    "syllables": [
+      "vase"
+    ]
+  },
+  {
+    "word": "vast",
+    "choices": [
+      "vast",
+      "past",
+      "vvst"
+    ],
+    "syllables": [
+      "vast"
+    ]
+  },
+  {
+    "word": "vault",
+    "choices": [
+      "vault",
+      "vaflt",
+      "varlt"
+    ],
+    "syllables": [
+      "vault"
+    ]
+  },
+  {
+    "word": "vein",
+    "choices": [
+      "vein",
+      "veen",
+      "gein"
+    ],
+    "syllables": [
+      "vein"
+    ]
+  },
+  {
+    "word": "venture",
+    "choices": [
+      "venture",
+      "genture",
+      "uenture"
+    ],
+    "syllables": [
+      "ven",
+      "ture"
+    ]
+  },
+  {
+    "word": "vet",
+    "choices": [
+      "vet",
+      "vej",
+      "met"
+    ],
+    "syllables": [
+      "vet"
+    ]
+  },
+  {
+    "word": "view",
+    "choices": [
+      "view",
+      "qiew",
+      "vies"
+    ],
+    "syllables": [
+      "view"
+    ]
+  },
+  {
+    "word": "village",
+    "choices": [
+      "village",
+      "vlllage",
+      "villagd"
+    ],
+    "syllables": [
+      "vil",
+      "lage"
+    ]
+  },
+  {
+    "word": "vine",
+    "choices": [
+      "vine",
+      "oine",
+      "vjne"
+    ],
+    "syllables": [
+      "vine"
+    ]
+  },
+  {
+    "word": "vision",
+    "choices": [
+      "vision",
+      "vmsion",
+      "rision"
+    ],
+    "syllables": [
+      "vis",
+      "ion"
+    ]
+  },
+  {
+    "word": "visit",
+    "choices": [
+      "visit",
+      "visim",
+      "vrsit"
+    ],
+    "syllables": [
+      "vis",
+      "it"
+    ]
+  },
+  {
+    "word": "vivid",
+    "choices": [
+      "vivid",
+      "vivqd",
+      "vihid"
+    ],
+    "syllables": [
+      "vivid"
+    ]
+  },
+  {
+    "word": "voice",
+    "choices": [
+      "voice",
+      "vocce",
+      "voipe"
+    ],
+    "syllables": [
+      "voice"
+    ]
+  },
+  {
+    "word": "vote",
+    "choices": [
+      "vote",
+      "votj",
+      "vyte"
+    ],
+    "syllables": [
+      "vote"
+    ]
+  },
+  {
+    "word": "vow",
+    "choices": [
+      "vow",
+      "voy",
+      "vod"
+    ],
+    "syllables": [
+      "vow"
+    ]
+  },
+  {
+    "word": "voyage",
+    "choices": [
+      "voyage",
+      "voyabe",
+      "eoyage"
+    ],
+    "syllables": [
+      "voy",
+      "age"
+    ]
+  },
+  {
+    "word": "walk",
+    "choices": [
+      "walk",
+      "wllk",
+      "waln"
+    ],
+    "syllables": [
+      "walk"
+    ]
+  },
+  {
+    "word": "wall",
+    "choices": [
+      "wall",
+      "well",
+      "waxl"
+    ],
+    "syllables": [
+      "wall"
+    ]
+  },
+  {
+    "word": "warm",
+    "choices": [
+      "warm",
+      "warj",
+      "wsrm"
+    ],
+    "syllables": [
+      "warm"
+    ]
+  },
+  {
+    "word": "watch",
+    "choices": [
+      "watch",
+      "wawch",
+      "waech"
+    ],
+    "syllables": [
+      "watch"
+    ]
+  },
+  {
+    "word": "wave",
+    "choices": [
+      "wave",
+      "wzve",
+      "waze"
+    ],
+    "syllables": [
+      "wave"
+    ]
+  },
+  {
+    "word": "wax",
+    "choices": [
+      "wax",
+      "wap",
+      "xax"
+    ],
+    "syllables": [
+      "wax"
+    ]
+  },
+  {
+    "word": "way",
+    "choices": [
+      "way",
+      "wgy",
+      "wsy"
+    ],
+    "syllables": [
+      "way"
+    ]
+  },
+  {
+    "word": "wedge",
+    "choices": [
+      "wedge",
+      "weyge",
+      "wedgv"
+    ],
+    "syllables": [
+      "wedge"
+    ]
+  },
+  {
+    "word": "weird",
+    "choices": [
+      "weird",
+      "weipd",
+      "wlird"
+    ],
+    "syllables": [
+      "weird"
+    ]
+  },
+  {
+    "word": "wet",
+    "choices": [
+      "wet",
+      "wea",
+      "web"
+    ],
+    "syllables": [
+      "wet"
+    ]
+  },
+  {
+    "word": "wet suit",
+    "choices": [
+      "wet suit",
+      "set suit",
+      "wet suir"
+    ],
+    "syllables": [
+      "wet ",
+      "suit"
+    ]
+  },
+  {
+    "word": "whale",
+    "choices": [
+      "whale",
+      "whalk",
+      "whkle"
+    ],
+    "syllables": [
+      "whale"
+    ]
+  },
+  {
+    "word": "what",
+    "choices": [
+      "what",
+      "whxt",
+      "wzat"
+    ],
+    "syllables": [
+      "what"
+    ]
+  },
+  {
+    "word": "whatever",
+    "choices": [
+      "whatever",
+      "dhatever",
+      "whatevor"
+    ],
+    "syllables": [
+      "whatever"
+    ]
+  },
+  {
+    "word": "wheel",
+    "choices": [
+      "wheel",
+      "whzel",
+      "wheol"
+    ],
+    "syllables": [
+      "wheel"
+    ]
+  },
+  {
+    "word": "when",
+    "choices": [
+      "when",
+      "wsen",
+      "whmn"
+    ],
+    "syllables": [
+      "when"
+    ]
+  },
+  {
+    "word": "whenever",
+    "choices": [
+      "whenever",
+      "whgnever",
+      "whsnever"
+    ],
+    "syllables": [
+      "whenev",
+      "er"
+    ]
+  },
+  {
+    "word": "where",
+    "choices": [
+      "where",
+      "wheru",
+      "whfre"
+    ],
+    "syllables": [
+      "where"
+    ]
+  },
+  {
+    "word": "which",
+    "choices": [
+      "which",
+      "whqch",
+      "whith"
+    ],
+    "syllables": [
+      "which"
+    ]
+  },
+  {
+    "word": "whim",
+    "choices": [
+      "whim",
+      "whie",
+      "whtm"
+    ],
+    "syllables": [
+      "whim"
+    ]
+  },
+  {
+    "word": "whip",
+    "choices": [
+      "whip",
+      "bhip",
+      "wxip"
+    ],
+    "syllables": [
+      "whip"
+    ]
+  },
+  {
+    "word": "whirl",
+    "choices": [
+      "whirl",
+      "whibl",
+      "whirb"
+    ],
+    "syllables": [
+      "whirl"
+    ]
+  },
+  {
+    "word": "whisk",
+    "choices": [
+      "whisk",
+      "whksk",
+      "whilk"
+    ],
+    "syllables": [
+      "whisk"
+    ]
+  },
+  {
+    "word": "whisper",
+    "choices": [
+      "whisper",
+      "xhisper",
+      "ahisper"
+    ],
+    "syllables": [
+      "whis",
+      "per"
+    ]
+  },
+  {
+    "word": "whistle",
+    "choices": [
+      "whistle",
+      "qhistle",
+      "whustle"
+    ],
+    "syllables": [
+      "whistle"
+    ]
+  },
+  {
+    "word": "whit",
+    "choices": [
+      "whit",
+      "thit",
+      "rhit"
+    ],
+    "syllables": [
+      "whit"
+    ]
+  },
+  {
+    "word": "white",
+    "choices": [
+      "white",
+      "whnte",
+      "whitx"
+    ],
+    "syllables": [
+      "white"
+    ]
+  },
+  {
+    "word": "who",
+    "choices": [
+      "who",
+      "cho",
+      "pho"
+    ],
+    "syllables": [
+      "who"
+    ]
+  },
+  {
+    "word": "whom",
+    "choices": [
+      "whom",
+      "whob",
+      "wtom"
+    ],
+    "syllables": [
+      "whom"
+    ]
+  },
+  {
+    "word": "why",
+    "choices": [
+      "why",
+      "wht",
+      "chy"
+    ],
+    "syllables": [
+      "why"
+    ]
+  },
+  {
+    "word": "wig",
+    "choices": [
+      "wig",
+      "wpg",
+      "wio"
+    ],
+    "syllables": [
+      "wig"
+    ]
+  },
+  {
+    "word": "win",
+    "choices": [
+      "win",
+      "wig",
+      "tin"
+    ],
+    "syllables": [
+      "win"
+    ]
+  },
+  {
+    "word": "wing",
+    "choices": [
+      "wing",
+      "wint",
+      "wsng"
+    ],
+    "syllables": [
+      "wing"
+    ]
+  },
+  {
+    "word": "wish",
+    "choices": [
+      "wish",
+      "wisj",
+      "wieh"
+    ],
+    "syllables": [
+      "wish"
+    ]
+  },
+  {
+    "word": "word",
+    "choices": [
+      "word",
+      "wold",
+      "woxd"
+    ],
+    "syllables": [
+      "word"
+    ]
+  },
+  {
+    "word": "work",
+    "choices": [
+      "work",
+      "woru",
+      "wirk"
+    ],
+    "syllables": [
+      "work"
+    ]
+  },
+  {
+    "word": "work bag",
+    "choices": [
+      "work bag",
+      "work bog",
+      "worktbag"
+    ],
+    "syllables": [
+      "work bag"
+    ]
+  },
+  {
+    "word": "workbook",
+    "choices": [
+      "workbook",
+      "workbzok",
+      "worwbook"
+    ],
+    "syllables": [
+      "work",
+      "book"
+    ]
+  },
+  {
+    "word": "workforce",
+    "choices": [
+      "workforce",
+      "workforcf",
+      "workforne"
+    ],
+    "syllables": [
+      "work",
+      "force"
+    ]
+  },
+  {
+    "word": "workman",
+    "choices": [
+      "workman",
+      "wovkman",
+      "workmaz"
+    ],
+    "syllables": [
+      "work",
+      "man"
+    ]
+  },
+  {
+    "word": "workout",
+    "choices": [
+      "workout",
+      "woroout",
+      "woakout"
+    ],
+    "syllables": [
+      "workout"
+    ]
+  },
+  {
+    "word": "workplace",
+    "choices": [
+      "workplace",
+      "workppace",
+      "wolkplace"
+    ],
+    "syllables": [
+      "work",
+      "place"
+    ]
+  },
+  {
+    "word": "workshop",
+    "choices": [
+      "workshop",
+      "lorkshop",
+      "workshxp"
+    ],
+    "syllables": [
+      "work",
+      "shop"
+    ]
+  },
+  {
+    "word": "world",
+    "choices": [
+      "world",
+      "wornd",
+      "wokld"
+    ],
+    "syllables": [
+      "world"
+    ]
+  },
+  {
+    "word": "worm",
+    "choices": [
+      "worm",
+      "wtrm",
+      "wocm"
+    ],
+    "syllables": [
+      "worm"
+    ]
+  },
+  {
+    "word": "worn",
+    "choices": [
+      "worn",
+      "wori",
+      "worr"
+    ],
+    "syllables": [
+      "worn"
+    ]
+  },
+  {
+    "word": "wrap",
+    "choices": [
+      "wrap",
+      "wras",
+      "waap"
+    ],
+    "syllables": [
+      "wrap"
+    ]
+  },
+  {
+    "word": "wreath",
+    "choices": [
+      "wreath",
+      "wdeath",
+      "wreaih"
+    ],
+    "syllables": [
+      "wreath"
+    ]
+  },
+  {
+    "word": "wren",
+    "choices": [
+      "wren",
+      "wref",
+      "wken"
+    ],
+    "syllables": [
+      "wren"
+    ]
+  },
+  {
+    "word": "wrench",
+    "choices": [
+      "wrench",
+      "wrinch",
+      "mrench"
+    ],
+    "syllables": [
+      "wrench"
+    ]
+  },
+  {
+    "word": "wrestle",
+    "choices": [
+      "wrestle",
+      "wrestlv",
+      "wrektle"
+    ],
+    "syllables": [
+      "wrestle"
+    ]
+  },
+  {
+    "word": "wriggle",
+    "choices": [
+      "wriggle",
+      "sriggle",
+      "wribgle"
+    ],
+    "syllables": [
+      "wriggle"
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "choices": [
+      "wrinkle",
+      "wriikle",
+      "wriykle"
+    ],
+    "syllables": [
+      "wrinkle"
+    ]
+  },
+  {
+    "word": "wrist",
+    "choices": [
+      "wrist",
+      "vrist",
+      "arist"
+    ],
+    "syllables": [
+      "wrist"
+    ]
+  },
+  {
+    "word": "write",
+    "choices": [
+      "write",
+      "weite",
+      "wriwe"
+    ],
+    "syllables": [
+      "write"
+    ]
+  },
+  {
+    "word": "written",
+    "choices": [
+      "written",
+      "writtel",
+      "wkitten"
+    ],
+    "syllables": [
+      "writ",
+      "ten"
+    ]
+  },
+  {
+    "word": "wrong",
+    "choices": [
+      "wrong",
+      "wrdng",
+      "woong"
+    ],
+    "syllables": [
+      "wrong"
+    ]
+  },
+  {
+    "word": "wrote",
+    "choices": [
+      "wrote",
+      "mrote",
+      "wwote"
+    ],
+    "syllables": [
+      "wrote"
+    ]
+  },
+  {
+    "word": "wrought",
+    "choices": [
+      "wrought",
+      "waought",
+      "wrouvht"
+    ],
+    "syllables": [
+      "wrought"
+    ]
+  },
+  {
+    "word": "wry",
+    "choices": [
+      "wry",
+      "jry",
+      "wrk"
+    ],
+    "syllables": [
+      "wry"
+    ]
+  },
+  {
+    "word": "yak",
+    "choices": [
+      "yak",
+      "eak",
+      "yae"
+    ],
+    "syllables": [
+      "yak"
+    ]
+  },
+  {
+    "word": "yard",
+    "choices": [
+      "yard",
+      "yaad",
+      "yahd"
+    ],
+    "syllables": [
+      "yard"
+    ]
+  },
+  {
+    "word": "yarn",
+    "choices": [
+      "yarn",
+      "tarn",
+      "garn"
+    ],
+    "syllables": [
+      "yarn"
+    ]
+  },
+  {
+    "word": "yawn",
+    "choices": [
+      "yawn",
+      "ynwn",
+      "jawn"
+    ],
+    "syllables": [
+      "yawn"
+    ]
+  },
+  {
+    "word": "year",
+    "choices": [
+      "year",
+      "yebr",
+      "yeax"
+    ],
+    "syllables": [
+      "year"
+    ]
+  },
+  {
+    "word": "yell",
+    "choices": [
+      "yell",
+      "yxll",
+      "yull"
+    ],
+    "syllables": [
+      "yell"
+    ]
+  },
+  {
+    "word": "yellow",
+    "choices": [
+      "yellow",
+      "yealow",
+      "ysllow"
+    ],
+    "syllables": [
+      "yel",
+      "low"
+    ]
+  },
+  {
+    "word": "yes",
+    "choices": [
+      "yes",
+      "oes",
+      "ees"
+    ],
+    "syllables": [
+      "yes"
+    ]
+  },
+  {
+    "word": "yesterday",
+    "choices": [
+      "yesterday",
+      "yestereay",
+      "ycsterday"
+    ],
+    "syllables": [
+      "yes",
+      "ter",
+      "day"
+    ]
+  },
+  {
+    "word": "yet",
+    "choices": [
+      "yet",
+      "ykt",
+      "yey"
+    ],
+    "syllables": [
+      "yet"
+    ]
+  },
+  {
+    "word": "yield",
+    "choices": [
+      "yield",
+      "ydeld",
+      "yielo"
+    ],
+    "syllables": [
+      "yield"
+    ]
+  },
+  {
+    "word": "yogurt",
+    "choices": [
+      "yogurt",
+      "yoiurt",
+      "yoguot"
+    ],
+    "syllables": [
+      "yogurt"
+    ]
+  },
+  {
+    "word": "young",
+    "choices": [
+      "young",
+      "youno",
+      "yrung"
+    ],
+    "syllables": [
+      "young"
+    ]
+  },
+  {
+    "word": "your",
+    "choices": [
+      "your",
+      "uour",
+      "yoer"
+    ],
+    "syllables": [
+      "your"
+    ]
+  },
+  {
+    "word": "yours",
+    "choices": [
+      "yours",
+      "youqs",
+      "wours"
+    ],
+    "syllables": [
+      "yours"
+    ]
+  },
+  {
+    "word": "youth",
+    "choices": [
+      "youth",
+      "youah",
+      "yjuth"
+    ],
+    "syllables": [
+      "youth"
+    ]
+  },
+  {
+    "word": "zap",
+    "choices": [
+      "zap",
+      "zep",
+      "aap"
+    ],
+    "syllables": [
+      "zap"
+    ]
+  },
+  {
+    "word": "zeal",
+    "choices": [
+      "zeal",
+      "ceal",
+      "zeav"
+    ],
+    "syllables": [
+      "zeal"
+    ]
+  },
+  {
+    "word": "zebra",
+    "choices": [
+      "zebra",
+      "iebra",
+      "zebrv"
+    ],
+    "syllables": [
+      "zebra"
+    ]
+  },
+  {
+    "word": "zenith",
+    "choices": [
+      "zenith",
+      "genith",
+      "zhnith"
+    ],
+    "syllables": [
+      "zenith"
+    ]
+  },
+  {
+    "word": "zero",
+    "choices": [
+      "zero",
+      "mero",
+      "zaro"
+    ],
+    "syllables": [
+      "zero"
+    ]
+  },
+  {
+    "word": "zest",
+    "choices": [
+      "zest",
+      "zedt",
+      "gest"
+    ],
+    "syllables": [
+      "zest"
+    ]
+  },
+  {
+    "word": "zigzag",
+    "choices": [
+      "zigzag",
+      "zigzae",
+      "zkgzag"
+    ],
+    "syllables": [
+      "zig",
+      "zag"
+    ]
+  },
+  {
+    "word": "zinc",
+    "choices": [
+      "zinc",
+      "ziec",
+      "zixc"
+    ],
+    "syllables": [
+      "zinc"
+    ]
+  },
+  {
+    "word": "zip",
+    "choices": [
+      "zip",
+      "ziu",
+      "zit"
+    ],
+    "syllables": [
+      "zip"
+    ]
+  },
+  {
+    "word": "zoe",
+    "choices": [
+      "zoe",
+      "toe",
+      "zye"
+    ],
+    "syllables": [
+      "zoe"
+    ]
+  },
+  {
+    "word": "zone",
+    "choices": [
+      "zone",
+      "zons",
+      "zcne"
+    ],
+    "syllables": [
+      "zone"
+    ]
+  },
+  {
+    "word": "zoo",
+    "choices": [
+      "zoo",
+      "zol",
+      "zso"
+    ],
+    "syllables": [
+      "zoo"
+    ]
+  },
+  {
+    "word": "zoom",
+    "choices": [
+      "zoom",
+      "uoom",
+      "zvom"
+    ],
+    "syllables": [
+      "zoom"
+    ]
+  }
+]
