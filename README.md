@@ -71,15 +71,12 @@ Download all the following files from the Releases page:
 - LitBuddy-Windows.zip.part_af
 - rebuild_zip.bat
 
-- Place all files in the same folder on your Windows machine.
+* Place all files in the same folder on your Windows machine.
+* Double-click rebuild_zip.bat This will combine the parts into a full ZIP file named LitBuddy-Windows.zip.
+* Right-click LitBuddy-Windows.zip → choose Extract All
+* Open the extracted folder and double-click LitBuddy.exe to launch the app.
 
-- Double-click rebuild_zip.bat This will combine the parts into a full ZIP file named LitBuddy-Windows.zip.
-
-- Right-click LitBuddy-Windows.zip → choose Extract All
-
-- Open the extracted folder and double-click LitBuddy.exe to launch the app.
-
-📝 Notes
+## 📝 Notes
 If you see a warning about unknown publisher, click "More info" → "Run anyway".
 
 Make sure your antivirus or firewall doesn’t block the .bat file or .exe.
