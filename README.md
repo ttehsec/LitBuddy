@@ -63,5 +63,11 @@ LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text t
 2. **Clone the Repository**
    ```bash
    git clone https://github.com/ttehsec/LitBuddy.git
+   
+## 🖥️ How to Run LitBuddy (Windows)
+
+1. Download `LitBuddy-Windows.zip` from the [Releases](https://github.com/ttehsec/LitBuddy/releases)
+2. Unzip the folder
+3. Double-click `LitBuddy.exe` to launch the app
 
 
