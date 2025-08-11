@@ -63,27 +63,21 @@ LitBuddy is distributed as split ZIP files due to GitHub's file size limits. Fol
 🔧 Step-by-Step Installation
 Download all the following files from the Releases page:
 
-LitBuddy-Windows.zip.part_aa
+- LitBuddy-Windows.zip.part_aa
+- LitBuddy-Windows.zip.part_ab
+- LitBuddy-Windows.zip.part_ac
+- LitBuddy-Windows.zip.part_ad
+- LitBuddy-Windows.zip.part_ae
+- LitBuddy-Windows.zip.part_af
+- rebuild_zip.bat
 
-LitBuddy-Windows.zip.part_ab
+- Place all files in the same folder on your Windows machine.
 
-LitBuddy-Windows.zip.part_ac
+- Double-click rebuild_zip.bat This will combine the parts into a full ZIP file named LitBuddy-Windows.zip.
 
-LitBuddy-Windows.zip.part_ad
+- Right-click LitBuddy-Windows.zip → choose Extract All
 
-LitBuddy-Windows.zip.part_ae
-
-LitBuddy-Windows.zip.part_af
-
-rebuild_zip.bat
-
-Place all files in the same folder on your Windows machine.
-
-Double-click rebuild_zip.bat This will combine the parts into a full ZIP file named LitBuddy-Windows.zip.
-
-Right-click LitBuddy-Windows.zip → choose Extract All
-
-Open the extracted folder and double-click LitBuddy.exe to launch the app.
+- Open the extracted folder and double-click LitBuddy.exe to launch the app.
 
 📝 Notes
 If you see a warning about unknown publisher, click "More info" → "Run anyway".
