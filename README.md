@@ -57,7 +57,6 @@ LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text t
 
 ## 🖥️ How to Run LitBuddy (Windows)
 
-🖥️ How to Run LitBuddy (Windows)
 LitBuddy is distributed as split ZIP files due to GitHub's file size limits. Follow these steps to install:
 
 🔧 Step-by-Step Installation
