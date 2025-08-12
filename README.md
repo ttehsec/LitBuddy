@@ -53,24 +53,15 @@ LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text t
 
 ## 🖥️ Installation (Windows)
 
-LitBuddy is distributed as split ZIP files due to GitHub’s file size limits.
+LitBuddy is distributed as a split ZIP archive due to GitHub’s file size limits.
 
-### ✅ Step-by-Step
+### ✅ Quick Setup
 
-1. **Download all the following files** from the repository:
-   - `LitBuddy.zip.part_aa`
-   - `LitBuddy.zip.part_ab`
-   - `LitBuddy.zip.part_ac` (and so on)
-   - `rebuild_zip.bat`
-
-2. **Place all files in the same folder** on your Windows machine.
-
-3. **Double-click** `rebuild_zip.bat`  
-   This will combine the parts into `LitBuddy.zip`.
-
-4. **Right-click** `LitBuddy.zip` → **Extract All**
-
-5. **Open** the extracted folder and **double-click** `LitBuddy.exe` to launch the app.
+1. Go to the [LitBuddy for Windows 1–3 Release](https://github.com/ttehsec/LitBuddy/releases/tag/4Windows)
+2. Download all `.zip` parts and the `restore.bat` file
+3. Place them in the same folder
+4. Double-click `restore.bat` to rebuild `LitBuddy.zip`
+5. Extract the ZIP and run `LitBuddy.exe`
 
 ---
 
@@ -78,7 +69,7 @@ LitBuddy is distributed as split ZIP files due to GitHub’s file size limits.
 
 If you're using Kali or another Linux distro:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ttehsec/LitBuddy.git
-   cd LitBuddy/dist
+```bash
+git clone https://github.com/ttehsec/LitBuddy.git
+cd LitBuddy
+python3 LitBuddy.py
