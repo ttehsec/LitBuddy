@@ -61,6 +61,9 @@ def play_welcome():
 
 # === Start of Teacher Tab ===
 
+
+
+
 editor_container = None
 
 
@@ -827,9 +830,19 @@ def build_word_fixer_gui(parent_frame):
         except Exception as e:
             messagebox.showerror("Error", f"Failed to save file:\n{e}")
 
-    tk.Button(parent_frame, text="💾 Save Updates", font=(CHOSEN_FONT, 12), bg="#AED581", command=save_word_update).pack(pady=10)
-    tk.Button(parent_frame, text="🔊 Play Phonemes", font=(CHOSEN_FONT, 12), bg="#FFCCBC", command=lambda: play_phonemes(selected_word.get())).pack(pady=5)
-    tk.Button(parent_frame, text="🔊 Play Phonics Chunks", font=(CHOSEN_FONT, 12), bg="#E1F5FE", command=play_phonics_chunks).pack(pady=5)
+    
+
+    button_frame = tk.Frame(parent_frame)
+    button_frame.pack(pady=10)
+
+    tk.Button(button_frame, text="💾 Save Updates", font=(CHOSEN_FONT, 12), bg="#AED581", command=save_word_update).pack(side="left", padx=5)
+    tk.Button(button_frame, text="🔊 Play Phonemes", font=(CHOSEN_FONT, 12), bg="#FFCCBC", command=lambda: play_phonemes(selected_word.get())).pack(side="left", padx=5)
+    tk.Button(button_frame, text="🔊 Play Phonics Chunks", font=(CHOSEN_FONT, 12), bg="#E1F5FE", command=play_phonics_chunks).pack(side="left", padx=5)
+
+
+
+
+
 
 
 
@@ -2195,7 +2208,7 @@ def open_wordlist_manager():
 
 
 
-def hash_password(password):
+def hash_(password):
     return hashlib.sha256(password.encode()).hexdigest()
 
 
@@ -3233,16 +3246,19 @@ current_typing_word = ""
 
 
 
+
+
 def start_typing_game():
     clear_play_area()
     menu_frame.pack_forget()
-    
+
+    build_typing_game_tab()
 
     if not challenge_wordlist:
         messagebox.showwarning("⚠️ No words loaded", "Please upload a challenge wordlist first.")
-        return
 
-    build_typing_game_tab()
+
+   
 
 
 
