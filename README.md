@@ -72,4 +72,5 @@ If you're using Kali or another Linux distro:
 ```bash
 git clone https://github.com/ttehsec/LitBuddy.git
 cd LitBuddy
+pip install -r requirements.txt
 python3 LitBuddy.py
