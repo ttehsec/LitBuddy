@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Build & Distribution
-#build/
+build/
 #dist/
 #*.spec
 
