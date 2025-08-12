@@ -3,16 +3,16 @@ __pycache__/
 *.pyc
 
 # Build & Distribution
-build/
-dist/
-*.spec
+#build/
+#dist/
+#*.spec
 
 # Audio files
 *.mp3
 *.wav
 
 # Personal config
-admin_config.json
+#admin_config.json
 difficulty_config.json
 litbuddy_config.json
 profiles/

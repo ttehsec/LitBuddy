@@ -2203,15 +2203,7 @@ def load_admin_config():
     with open("admin_config.json", "r") as f:
         return json.load(f)
 
-def check_password():    
-
-    entered = simpledialog.askstring("🔐 Admin Access", "Enter password:", show="*")
-    if not entered:
-        return False
-
-    entered_hash = hashlib.sha256(entered.encode()).hexdigest()
-    
-
+def check_password():
     try:
         with open("admin_config.json", "r") as f:
             admin_data = json.load(f)
@@ -2219,7 +2211,31 @@ def check_password():
         messagebox.showerror("Config Missing", "admin_config.json not found.")
         return False
 
+    # If no password is set, prompt to create one
+    if not admin_data.get("password_hash"):
+        messagebox.showinfo("🔐 Setup", "No admin password is set. Let's create one.")
+        new = simpledialog.askstring("🔑 New Password", "Enter new password:", show="*")
+        if not new:
+            return False
+        confirm = simpledialog.askstring("🔁 Confirm Password", "Re-enter new password:", show="*")
+        if new != confirm:
+            messagebox.showerror("❗ Mismatch", "Passwords do not match.")
+            return False
+
+        new_hash = hashlib.sha256(new.encode()).hexdigest()
+        with open("admin_config.json", "w") as f:
+            json.dump({"password_hash": new_hash}, f)
+        messagebox.showinfo("✅ Set", "Admin password created successfully!")
+        return True
+
+    # Otherwise, prompt for existing password
+    entered = simpledialog.askstring("🔐 Admin Access", "Enter password:", show="*")
+    if not entered:
+        return False
+
+    entered_hash = hashlib.sha256(entered.encode()).hexdigest()
     return entered_hash == admin_data.get("password_hash")
+
 
 
 
