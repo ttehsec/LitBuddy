@@ -84,7 +84,15 @@ LitBuddy is designed to be easy to install and run on any Windows device — no 
    - ✅ This will automatically set up everything and launch the app
 
 ---
+##⚠️ Notes
 
+Virtual Environment: LitBuddy uses a virtual environment to keep its tools and libraries separate from the rest of your system. This is created automatically the first time you run the launcher.
+
+Antivirus Warnings: Some antivirus programs may flag certain files (like .mp3 used for voice playback) or Python scripts as unfamiliar. These are safe and required for LitBuddy’s voice features to work. You may need to approve or whitelist them.
+
+First-Time Setup: The first launch may take a few minutes while dependencies are installed. After that, LitBuddy will start up quickly.
+
+---
 ## 🐧 Installation (Linux / Kali)
 
 If you're using Kali or another Linux distro:
