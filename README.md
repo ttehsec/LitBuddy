@@ -57,15 +57,22 @@ Interactive games to reinforce phonics, spelling, and math skills:
 
 ## 🖥️ Installation (Windows)
 
-LitBuddy is distributed as a split ZIP archive due to GitHub’s file size limits.
+LitBuddy is designed to be easy to install and run on any Windows device — no technical experience required.
 
-### ✅ Quick Setup
+✅ Quick Setup
+1.Install Python Download and install the latest version of Python from python.org. ✅ During installation, make sure to check the box that says “Add Python to PATH.”
 
-1. Go to the [LitBuddy for Windows 1–3 Release](https://github.com/ttehsec/LitBuddy/releases/tag/4Windows)
-2. Download all `.zip` parts and the `restore.bat` file
-3. Place them in the same folder
-4. Double-click `restore.bat` to rebuild `LitBuddy.zip`
-5. Extract the ZIP and run `LitBuddy.exe`
+2. Install Git for Windows Download and install Git from git-scm.com. ✅ Use the default options during setup.
+
+3. Download LitBuddy
+- Right-click on your desktop and choose Git Bash Here
+- Run this command to download LitBuddy:
+  - git clone https://github.com/ttehsec/LitBuddy.git
+- Open the LitBuddy folder that was created
+
+4. Launch LitBuddy
+- Right-click on Launch_LitBuddy_Windows.bat
+- Choose Run as administrator ✅ This will automatically set up everything and launch the app
 
 ---
 
