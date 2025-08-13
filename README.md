@@ -73,9 +73,15 @@ LitBuddy is designed to be easy to install and run on any Windows device — no 
   - git clone https://github.com/ttehsec/LitBuddy.git
 - Open the LitBuddy folder that was created
 
-4. Launch LitBuddy
+4. Download the Launcher File
+- Go to the LitBuddy for Windows Release Page
+- Download the file named Launch_LitBuddy_Windows.bat
+- Place it inside the LitBuddy folder you cloned in Step 3
+
+5. Launch LitBuddy
 - Right-click on Launch_LitBuddy_Windows.bat
-- Choose Run as administrator ✅ This will automatically set up everything and launch the app
+- Choose Run as administrator
+   - ✅ This will automatically set up everything and launch the app
 
 ---
 
