@@ -35,6 +35,8 @@ after_ids = {
 
 
 # === Welcome message ===
+
+''' 08/13/2025
 def play_welcome():
     profiles_data = load_profiles()
     name = profiles_data.get("current_user", "Player")
@@ -56,6 +58,41 @@ def play_welcome():
         offline_engine.runAndWait()
     else:
         print("❌ No voice engine available.")
+
+'''
+def play_welcome():
+    profiles_data = load_profiles()
+    name = profiles_data.get("current_user", "Player")
+    welcome_msg = f"Hi {name}!!! I'm your helper, LitBuddy! Let's learn together!!!"
+
+    if has_internet():
+        try:
+            tts = gTTS(text=welcome_msg, lang="en")
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
+                temp_path = tmp.name
+            tts.save(temp_path)
+
+            pygame.mixer.music.load(temp_path)
+            pygame.mixer.music.play()
+
+            while pygame.mixer.music.get_busy():
+                pygame.time.Clock().tick(10)
+
+            pygame.mixer.music.unload()
+            os.remove(temp_path)
+
+        except Exception as e:
+            print("gTTS welcome failed:", e)
+            if offline_engine:
+                offline_engine.say(welcome_msg)
+                offline_engine.runAndWait()
+    elif offline_engine:
+        offline_engine.say(welcome_msg)
+        offline_engine.runAndWait()
+    else:
+        print("❌ No voice engine available.")
+
+
 
 
 
@@ -1031,6 +1068,8 @@ def show_loading_spinner():
     animate()
 
 
+
+''' 08/13/2025
 def get_gtts_audio(text):
     try:
         from gtts import gTTS
@@ -1050,6 +1089,17 @@ def get_gtts_audio(text):
 
     except Exception as e:
         print("TTS error:", e)
+        return None
+'''
+
+def get_gtts_audio(text):
+    try:
+        tts = gTTS(text=text, lang="en", slow=False)
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
+            tts.save(tmp.name)
+            return tmp.name
+    except Exception as e:
+        print("TTS failed:", e)
         return None
 
 
@@ -1103,14 +1153,40 @@ offline_engine = init_offline_tts()
 #*******THIS IS THE START OF THE LISTEN FUNCTION**********
 loading_label = None
 
-
+''' 08/13/2025
 def try_remove(path):
     try:
         os.remove(path)
     except FileNotFoundError:
         print(f"🔍 File already deleted: {path}")
+'''
+
+def try_remove(path, retries=5):
+    import time
+    for _ in range(retries):
+        try:
+            os.remove(path)
+            return
+        except PermissionError:
+            time.sleep(0.2)
+        except FileNotFoundError:
+            print(f"🔍 File already deleted: {path}")
+            return
+
+
+''' 08/13/2025
+def cleanup_after_playback(path):
+    try_remove(path)
+    enable_replay()
+'''
 
 def cleanup_after_playback(path):
+    try:
+        pygame.mixer.music.stop()
+        pygame.mixer.music.unload()
+    except Exception as e:
+        print("Failed to stop/unload audio:", e)
+
     try_remove(path)
     enable_replay()
 
@@ -1283,7 +1359,8 @@ def speak_text_from_text(text):
         pygame.mixer.music.play()
 
         root.after(300, lambda: wait_for_playback_and_start(sentence_map, intervals))        
-        root.after(int(audio_duration * 1000) + 500, lambda *_: [try_remove(audio_path), enable_replay()])
+        #root.after(int(audio_duration * 1000) + 500, lambda *_: [try_remove(audio_path), enable_replay()])
+        root.after(int(audio_duration * 1000) + 500, lambda *_: cleanup_after_playback(audio_path))
 
 
 
@@ -1810,6 +1887,7 @@ def test_typing_voice():
 # Initialize mixer once at the start
 pygame.mixer.init()
 
+''' 08/13/2025
 def speak_with_gtts(text):
     try:
         tts = gTTS(text=text, lang='en')
@@ -1829,6 +1907,26 @@ def speak_with_gtts(text):
         print(f"⚠️ TTS failed: {e}")
         # Optional: show a messagebox or log error
         # messagebox.showwarning("TTS Error", "Unable to play audio.")
+'''
+
+def speak_with_gtts(text):
+    try:
+        tts = gTTS(text=text, lang='en')
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
+            temp_file = tmp.name
+        tts.save(temp_file)
+
+        pygame.mixer.music.load(temp_file)
+        pygame.mixer.music.play()
+
+        while pygame.mixer.music.get_busy():
+            pygame.time.Clock().tick(10)
+
+        pygame.mixer.music.unload()  # ✅ Release file lock
+        os.remove(temp_file)
+
+    except Exception as e:
+        print(f"⚠️ TTS failed: {e}")
 
 
 
