@@ -36,30 +36,7 @@ after_ids = {
 
 # === Welcome message ===
 
-''' 08/13/2025
-def play_welcome():
-    profiles_data = load_profiles()
-    name = profiles_data.get("current_user", "Player")
-    welcome_msg = f"Hi {name}!!! I'm your helper, LitBuddy! Let's learn together!!!"
-    if has_internet():
-        try:
-            tts = gTTS(text=welcome_msg, lang="en")
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
-                tts.save(tmp.name)
-            os.system(f'mpg123 -q "{tmp.name}" >nul 2>&1')
-            os.remove(tmp.name)
-        except Exception as e:
-            print("gTTS welcome failed:", e)
-            if offline_engine:
-                offline_engine.say(welcome_msg)
-                offline_engine.runAndWait()
-    elif offline_engine:
-        offline_engine.say(welcome_msg)
-        offline_engine.runAndWait()
-    else:
-        print("❌ No voice engine available.")
 
-'''
 def play_welcome():
     profiles_data = load_profiles()
     name = profiles_data.get("current_user", "Player")
@@ -673,15 +650,7 @@ def build_word_fixer_gui(parent_frame):
             with_stress=False
         ).split()
 
-    '''
-    def synthesize_phoneme(phoneme, output_dir="phonemes_audio"):
-        os.makedirs(output_dir, exist_ok=True)
-        safe_name = phoneme.replace("ʃ", "sh").replace("ɪ", "ih").replace("ʧ", "ch")  # customize as needed
-        filename = os.path.join(output_dir, f"{safe_name}.wav")
-        if not os.path.exists(filename):
-            subprocess.run(["espeak", "-v", "en-us", "--ipa", f"[{phoneme}]", "-w", filename])
-        return filename
-    '''
+   
 
     def synthesize_phoneme_audio(phoneme, output_dir="phonemes_audio"):
         os.makedirs(output_dir, exist_ok=True)
@@ -831,16 +800,7 @@ def build_word_fixer_gui(parent_frame):
     tk.Label(parent_frame, textvariable=phoneme_var, font=(CHOSEN_FONT, 11), bg=parent_frame["bg"], fg="#444").pack()
 
 
-    '''
-    def display_selected_word(*args):
-        word = selected_word.get()
-        for entry in file_data:
-            if entry.get("word") == word:
-                phonics_var.set(", ".join(entry.get("phonics", [])))
-                blend_var.set(entry.get("blend_phrase", ""))
-                type_var.set(entry.get("phonics_type", "auto"))
-                break
-    '''
+    
     def display_selected_word(*args):
         word = selected_word.get()
         for entry in file_data:
@@ -1069,28 +1029,7 @@ def show_loading_spinner():
 
 
 
-''' 08/13/2025
-def get_gtts_audio(text):
-    try:
-        from gtts import gTTS
-        filename = "temp_audio.mp3"
 
-        # Check selected style
-        pace = read_style.get() if read_style else "standard"
-
-        # Simulate a slower reading style by modifying punctuation pacing
-        if pace == "slow":
-            # Add extra pauses between sentences (gTTS respects punctuation)
-            text = text.replace(". ", "... ").replace("! ", "...! ").replace("? ", "...? ")
-
-        tts = gTTS(text=text, lang="en", slow=False)
-        tts.save(filename)
-        return filename
-
-    except Exception as e:
-        print("TTS error:", e)
-        return None
-'''
 
 def get_gtts_audio(text):
     try:
@@ -1153,13 +1092,6 @@ offline_engine = init_offline_tts()
 #*******THIS IS THE START OF THE LISTEN FUNCTION**********
 loading_label = None
 
-''' 08/13/2025
-def try_remove(path):
-    try:
-        os.remove(path)
-    except FileNotFoundError:
-        print(f"🔍 File already deleted: {path}")
-'''
 
 def try_remove(path, retries=5):
     import time
@@ -1174,11 +1106,6 @@ def try_remove(path, retries=5):
             return
 
 
-''' 08/13/2025
-def cleanup_after_playback(path):
-    try_remove(path)
-    enable_replay()
-'''
 
 def cleanup_after_playback(path):
     try:
@@ -1887,27 +1814,6 @@ def test_typing_voice():
 # Initialize mixer once at the start
 pygame.mixer.init()
 
-''' 08/13/2025
-def speak_with_gtts(text):
-    try:
-        tts = gTTS(text=text, lang='en')
-        temp_file = "mia_temp.mp3"
-        tts.save(temp_file)
-
-        pygame.mixer.music.load(temp_file)
-        pygame.mixer.music.play()
-
-        while pygame.mixer.music.get_busy():
-            pygame.time.Clock().tick(10)  # Avoid CPU overuse
-
-        if os.path.exists(temp_file):
-            os.remove(temp_file)
-
-    except Exception as e:
-        print(f"⚠️ TTS failed: {e}")
-        # Optional: show a messagebox or log error
-        # messagebox.showwarning("TTS Error", "Unable to play audio.")
-'''
 
 def speak_with_gtts(text):
     try:
@@ -3568,8 +3474,36 @@ def build_addition_game_tab():
     
 
 
-    addition_tab = tk.Frame(play_tab, bg="#E3F2FD")
-    addition_tab.pack(fill="both", expand=True)
+    # Create scrollable canvas
+    canvas = tk.Canvas(play_tab, bg="#E3F2FD", highlightthickness=0)
+    scroll_frame = tk.Frame(canvas, bg="#E3F2FD")
+    vsb = tk.Scrollbar(play_tab, orient="vertical", command=canvas.yview)
+    canvas.configure(yscrollcommand=vsb.set)
+
+    vsb.pack(side="right", fill="y")
+    canvas.pack(side="left", fill="both", expand=True)
+    canvas.create_window((0, 0), window=scroll_frame, anchor="nw", tags="scroll_frame")
+
+    def on_canvas_resize(event):
+        canvas.itemconfig("scroll_frame", width=event.width)
+
+    canvas.bind("<Configure>", on_canvas_resize)
+
+    def _on_mousewheel(event):
+        canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+
+    canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+
+
+
+    def on_frame_configure(event):
+        canvas.configure(scrollregion=canvas.bbox("all"))
+
+    scroll_frame.bind("<Configure>", on_frame_configure)
+
+    # Use scroll_frame instead of addition_tab
+    addition_tab = scroll_frame
 
     tk.Label(addition_tab, text="➕ Add It Up!", font=(CHOSEN_FONT, 16), bg="#E3F2FD", pady=10).pack()
 
@@ -3862,8 +3796,37 @@ def build_subtraction_game_tab():
         "Great subtraction!", "You're sharp!", "Correct!", "Nice work!", "Well done!", "Subtraction master!"
     ]
 
-    subtraction_tab = tk.Frame(play_tab, bg="#E3F2FD")
-    subtraction_tab.pack(fill="both", expand=True)
+    # Create scrollable canvas
+    canvas = tk.Canvas(play_tab, bg="#E3F2FD", highlightthickness=0)
+    scroll_frame = tk.Frame(canvas, bg="#E3F2FD")
+    vsb = tk.Scrollbar(play_tab, orient="vertical", command=canvas.yview)
+    canvas.configure(yscrollcommand=vsb.set)
+
+    vsb.pack(side="right", fill="y")
+    canvas.pack(side="left", fill="both", expand=True)
+    canvas.create_window((0, 0), window=scroll_frame, anchor="nw", tags="scroll_frame")
+
+    def on_frame_configure(event):
+        canvas.configure(scrollregion=canvas.bbox("all"))
+
+    scroll_frame.bind("<Configure>", on_frame_configure)
+
+    def on_canvas_resize(event):
+        canvas.itemconfig("scroll_frame", width=event.width)
+
+    canvas.bind("<Configure>", on_canvas_resize)
+
+    # Use scroll_frame instead of subtraction_tab
+    subtraction_tab = scroll_frame
+
+    def _on_mousewheel(event):
+        canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+
+    canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+
+
+
 
     tk.Label(subtraction_tab, text="➖ Subtraction Sprint", font=(CHOSEN_FONT, 16), bg="#E3F2FD", pady=10).pack()
 
@@ -3996,22 +3959,7 @@ def build_subtraction_game_tab():
     
 
 
-    '''
-    def load_next_subtraction_problem():
-        level = load_selected_level()
-        bounds = DIFFICULTY_LEVELS.get(level, DIFFICULTY_LEVELS[1])
 
-        if fixed_number_mode and fixed_number_value is not None:
-            a = fixed_number_value
-            b = random.randint(bounds["min"], min(a, bounds["max"]))
-        else:
-            a = random.randint(bounds["min"], bounds["max"])
-            b = random.randint(bounds["min"], bounds["max"])
-            if b > a:
-                a, b = b, a  # Ensure non-negative result
-
-        return a, b
-    '''
 
     def load_next_subtraction_problem():
         level = load_selected_level()
@@ -4123,14 +4071,7 @@ LEVEL_LABELS = {
 
 
 #*******START OF MULTIPLICATION GAME**********
-'''
-def load_next_multiplication_problem():
-    level = load_selected_level()
-    bounds = DIFFICULTY_LEVELS.get(level, DIFFICULTY_LEVELS[1])
-    a = random.randint(bounds["min"], bounds["max"])
-    b = random.randint(bounds["min"], bounds["max"])
-    return a, b
-'''
+
 
 def load_next_multiplication_problem():
     level = load_selected_level()
@@ -4174,8 +4115,35 @@ def build_multiplication_game_tab():
         "Multiplication master!", "Great job!", "Correct!", "You're on fire!", "Brilliant!", "Nice work!"
     ]
 
-    multiplication_tab = tk.Frame(play_tab, bg="#FFF3E0")
-    multiplication_tab.pack(fill="both", expand=True)
+    # Create scrollable canvas
+    canvas = tk.Canvas(play_tab, bg="#FFF3E0", highlightthickness=0)
+    scroll_frame = tk.Frame(canvas, bg="#FFF3E0")
+    vsb = tk.Scrollbar(play_tab, orient="vertical", command=canvas.yview)
+    canvas.configure(yscrollcommand=vsb.set)
+
+    vsb.pack(side="right", fill="y")
+    canvas.pack(side="left", fill="both", expand=True)
+    canvas.create_window((0, 0), window=scroll_frame, anchor="nw", tags="scroll_frame")
+
+    def on_frame_configure(event):
+        canvas.configure(scrollregion=canvas.bbox("all"))
+
+    scroll_frame.bind("<Configure>", on_frame_configure)
+
+    def on_canvas_resize(event):
+        canvas.itemconfig("scroll_frame", width=event.width)
+
+    canvas.bind("<Configure>", on_canvas_resize)
+
+    # Use scroll_frame instead of multiplication_tab
+    multiplication_tab = scroll_frame
+
+    def _on_mousewheel(event):
+        canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+
+    canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+
 
     tk.Label(multiplication_tab, text="✖️ Multiply Mania", font=(CHOSEN_FONT, 16), bg="#FFF3E0", pady=10).pack()
 
@@ -4395,119 +4363,6 @@ def build_multiplication_game_tab():
 
 
 #*******START OF SUDOKU PUZZLE GAME**********
-
-'''
-def is_valid(board, row, col, num):
-    for i in range(9):
-        if board[row][i] == num or board[i][col] == num:
-            return False
-    start_row, start_col = 3 * (row // 3), 3 * (col // 3)
-    for i in range(3):
-        for j in range(3):
-            if board[start_row + i][start_col + j] == num:
-                return False
-    return True
-
-def solve_board(board):
-    for row in range(9):
-        for col in range(9):
-            if board[row][col] == 0:
-                nums = list(range(1, 10))
-                random.shuffle(nums)
-                for num in nums:
-                    if is_valid(board, row, col, num):
-                        board[row][col] = num
-                        if solve_board(board):
-                            return True
-                        board[row][col] = 0
-                return False
-    return True
-
-def generate_full_board():
-    board = [[0 for _ in range(9)] for _ in range(9)]
-    solve_board(board)
-    return board
-
-def remove_cells(board, difficulty="easy"):
-    levels = {"easy": 35, "medium": 45, "hard": 55}
-    cells_to_remove = levels.get(difficulty, 35)
-    puzzle = [row[:] for row in board]
-    while cells_to_remove > 0:
-        row, col = random.randint(0,8), random.randint(0,8)
-        if puzzle[row][col] != 0:
-            puzzle[row][col] = 0
-            cells_to_remove -= 1
-    return puzzle
-
-def start_sudoku_game():
-    clear_play_area()
-    menu_frame.pack_forget()
-
-
-
-    sudoku_tab = tk.Frame(play_tab, bg="#F3E5F5")
-    sudoku_tab.pack(fill="both", expand=True)
-
-    tk.Label(sudoku_tab, text="🧩 Sudoku Challenge", font=(CHOSEN_FONT, 16), bg="#F3E5F5").pack(pady=10)
-
-    difficulty = "medium"  # You can add a dropdown later
-    full_board = generate_full_board()
-    puzzle_board = remove_cells(full_board, difficulty)
-
-    grid_frame = tk.Frame(sudoku_tab, bg="#F3E5F5")
-    grid_frame.pack(pady=10)
-
-    sudoku_entries = []
-
-    for row in range(9):
-        # Add horizontal divider after row 2 and 5
-        if row in [3, 6]:
-            divider_row = tk.Frame(grid_frame, height=2, bg="black")
-            divider_row.grid(row=row * 2 - 1, column=0, columnspan=17, sticky="ew", pady=1)
-
-        row_entries = []
-        for col in range(9):
-            val = puzzle_board[row][col]
-
-            entry = tk.Entry(grid_frame, font=(CHOSEN_FONT, 14), width=2, justify="center", bd=1, relief="ridge")
-            entry.grid(row=row * 2, column=col * 2, padx=1, pady=1)
-
-            if val != 0:
-                entry.insert(0, str(val))
-                entry.config(state="disabled", disabledforeground="black")
-
-            row_entries.append(entry)
-
-            # Add vertical divider after column 2 and 5
-            if col in [2, 5]:
-                divider = tk.Frame(grid_frame, width=2, height=25, bg="black")
-                divider.grid(row=row * 2, column=col * 2 + 1, sticky="ns", padx=1)
-
-        sudoku_entries.append(row_entries)
-
-
-
-
-    def check_solution():
-        for r in range(9):
-            for c in range(9):
-                entry = sudoku_entries[r][c]
-                val = entry.get()
-                if val.isdigit() and int(val) == full_board[r][c]:
-                    entry.config(bg="white")
-                else:
-                    entry.config(bg="#FFCDD2")  # Light red for incorrect
-
-    tk.Button(sudoku_tab, text="✅ Check Solution", font=(CHOSEN_FONT, 12), bg="#CE93D8",
-              command=check_solution).pack(pady=5)
-
-    tk.Button(sudoku_tab, text="🔄 New Puzzle", font=(CHOSEN_FONT, 12), bg="#B3E5FC",
-              command=start_sudoku_game).pack(pady=5)
-
-    tk.Button(sudoku_tab, text="🔙 Back to Menu", font=(CHOSEN_FONT, 11), bg="#FFDDDD",
-              command=show_menu).pack(pady=5)
-'''
-
 
 
 # Sudoku logic functions
