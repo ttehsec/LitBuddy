@@ -61,7 +61,9 @@ LitBuddy is designed to be easy to install and run on any Windows device — no 
 
 ✅ Quick Setup
 
-1.Install Python Download and install the latest version of Python from python.org. ✅ During installation, make sure to check the box that says “Add Python to PATH.”
+1.Install Python 
+- Download and install the latest version of Python from python.org. 
+- ✅ During installation, make sure to check the box that says “Add Python to PATH.”
 
 2. Install Git for Windows Download and install Git from git-scm.com. ✅ Use the default options during setup.
 
