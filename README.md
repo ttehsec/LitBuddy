@@ -47,7 +47,11 @@ Interactive games to reinforce phonics, spelling, and math skills:
 | **Dysgraphia**        | ✅ STT, ✅ On-screen keyboard, ✅ Word prediction                                    |
 | **Speech Difficulty** | ✅ Visual cueing, ✅ Audio-based phonics games                                      |
 
-LitBuddy uses the **OpenDyslexic font**, high-contrast themes, and spaced text to reduce visual stress and improve readability.
+- Dyslexia-friendly fonts: Users can toggle dyslexia-friendly fonts within the app. If OpenDyslexic is installed on their system, it will be used automatically; otherwise, Comic Sans MS provides a widely supported fallback.
+
+- High-contrast themes: Designed to reduce visual stress and improve readability.
+
+- Spaced text and clean layout: Supports learners with dyslexia, dysgraphia, and other reading challenges.
 
 ---
 
