@@ -65,20 +65,20 @@ LitBuddy is designed to be easy to install and run on any Windows device — no 
 - Download and install the latest version of Python from python.org. 
 - ✅ During installation, make sure to check the box that says “Add Python to PATH.”
 
-2. Install Git for Windows Download and install Git from git-scm.com. ✅ Use the default options during setup.
+2.Install Git for Windows Download and install Git from git-scm.com. ✅ Use the default options during setup.
 
-3. Download LitBuddy
+3.Download LitBuddy
 - Right-click on your desktop and choose Git Bash Here
 - Run this command to download LitBuddy:
   - git clone https://github.com/ttehsec/LitBuddy.git
 - Open the LitBuddy folder that was created
 
-4. Download the Launcher File
+4.Download the Launcher File
 - Go to the LitBuddy for Windows Release Page
 - Download the file named Launch_LitBuddy_Windows.bat
 - Place it inside the LitBuddy folder you cloned in Step 3
 
-5. Launch LitBuddy
+5.Launch LitBuddy
 - Right-click on Launch_LitBuddy_Windows.bat
 - Choose Run as administrator
    - ✅ This will automatically set up everything and launch the app
